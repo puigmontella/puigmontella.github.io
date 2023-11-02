@@ -10,6 +10,6 @@ In my learning experience at the Polytechnic University of Catalonia I have enro
 
 During my PhD and postdoc I had the chance to give some classes. I have always liked teaching but I was never in front of a class, thus I decided to go for it and step outside my comfort zone. Despite the difficult moments I experienced in the first classes, it turned out to be a great decision and I loved  teaching. I found that passing along the passion and curiosity to the students was, indeed, a very rewarding experience.
 
-### My story
+### My life beyond research
 
 To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
