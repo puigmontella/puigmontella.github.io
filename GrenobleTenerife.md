@@ -10,6 +10,8 @@ title: Bikepacking from Grenoble to Tenerife
 
 <p align="justify"> Grenoble, home for the last 8 years, is my starting point. Following the Drag river upstream, I leave behind both mountains and memories. The unbroken heat and slope persist until I reach Lac de Monteynard. From there I can still see the most emblematic peaks of Vercors and Chartreuse, faithful companions throughout my years in Grenoble. The familiar silhouettes of Sénépy, Peyrouse, and Mont Aiguille fade into the distance. I stop near La Mure to have lunch and start the first descent that helps me regain my strength to face the rest of the ascent. I pass near the lac du Sautet and the sunlight begins to recede. The last climb of the day goes through a wide valley between the giants of the Obiou and the Pierroux peak. Half way up my legs are still full of energy but the darkness halts my progress and I decide to camp in the middle of the vallée du Dévoluy.  </p>
 
+![day1_bikeGreTen](/assets/img/BikeGrenobleTenerife/day1.jpg "day1_bikeGreTen")
+
 
 ###  Day 2 - Dévoluy - Lac de Serre-Ponçon:
 
