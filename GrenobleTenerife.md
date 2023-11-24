@@ -4,6 +4,7 @@ title: Bikepacking from Grenoble to Tenerife
 ###subtitle: Why you'd want to go on a date with me
 ---
 
+In the late summer of 2023 I decided to move to Tenerife with my partner. I have lived in Grenoble for the last 8 years and I thought that the best way to move to Tenerife was to embark on a journey of 2400km by bicycle. This trip gifted me countless memories and adventure and I tried to capture some of them in this website. For those seeking more detailed info, GPS tracks and full path everything is available [here](https://www.komoot.com/collection/2440416/-grenoble-el-masnou-tenerife)
 
 ### Day 1 - Grenoble - Dévoluy:
 
@@ -24,3 +25,6 @@ I kickstart the day quite late, feeling the relentless sun on me since the begin
 
 ###  Day 3 - Lac de Serre-Ponçon - Mezel:
 <p align="justify"> The day kicks off with an intense ascent. Two hours of battling the sun, sweat, and hard work lead me to the pass marking the start of the Alpes de l'Haute-Provence natural park. Lunchtime arrives near Le Grand Puy ski resort, offering a breathtaking view of Roche Close and la Mournière peaks. After an energetic meal, it's time to descend. The way ahead is a long road winding through mountains and gorges. I pass through the awe-inspiring stone formations of Clues de Barles, sculpted by water across millennia. Then I reach Digne-les-Bains in search of accommodation. Disappointed by the options, I opt to push forward. Ten kilometers later, I stumble upon a motocross circuit bustling with vans that welcomed me and offered me a spot to spend the night.   </p>
+
+
+![day3_bikeGreTen](/assets/img/BikeGrenobleTenerife/day3.jpg "day3_bikeGreTen")
