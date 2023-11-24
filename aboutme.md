@@ -12,4 +12,4 @@ During my PhD and postdoc I had the chance to give some classes. I have always l
 
 ### My life beyond research
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+<p align="justify">  I love research but in my free time I also like to bike, climb go into the wilderness, spend some time with friends and do some woodwork. You can find out a bit more about my interests and hobbies clicking [here](https://dofollow.co.uk/).  </p>
