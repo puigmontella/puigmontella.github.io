@@ -18,3 +18,5 @@ title: Bikepacking from Grenoble to Tenerife
 
 <p align="justify">
 I kickstart the day quite late, feeling the relentless sun on me since the beginning. After an hour of climbing, I reach the col du Festre. I have about 20 km of downhill ahead of me, which brings a big smile in my face. I go at full speed through the last gray and rocky peaks of the massif of Dévoluy.  I opt for lesser-traveled roads to bypass Gap, following the course of La Durancel river.  My legs are exhausted and my back hurts but I still have one last climb to reach the campsite near Lac de Serre-Ponçon. Besides, the climb is full of cars and motorbikers that make me a little nervous. Fortunately, I make it without problems and reach the destination before the orange glow of the evening fades out.  </p>
+
+![day2_bikeGreTen](/assets/img/BikeGrenobleTenerife/day2.jpg "day2_bikeGreTen")
