@@ -12,4 +12,4 @@ During my PhD and postdoc I had the chance to give some classes. I have always l
 
 ### My life beyond research
 
-<p align="justify">  I love research but in my free time I also like to bike, climb go into the wilderness, spend some time with friends and do some woodwork. You can find out a bit more about my interests and hobbies clicking [here](https://dofollow.co.uk/).  </p>
+<p align="justify">  I love research but in my free time I also like to bike, climb go into the wilderness, spend some time with friends and do some woodwork. You can find out a bit more about my interests and hobbies clicking [here](https://puigmontella.github.io/GrenobleTenerife/) .  </p>
