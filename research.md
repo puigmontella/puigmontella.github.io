@@ -34,7 +34,9 @@ Tsai, B., Mathieu, A., Montellà, E. P., Hsu, T. J., & Chauchat, J. (2022). An E
 <p align="justify">
  At larger scales, it is also possible to observe the breaching process: dilatancy induces negative pore pressure that reduce the shearing preventing a shear failure. However, near the interface, the expansion of the granular material enhances particles to be released at the front face particle by particle forming a turbidity current and causing the breach front to  slowly regress. This mechanism is illustrated in the video found in the left panel below. The numerical model can be extended to study three dimensional problems such as debris flow or column collapses as shown in the video of the right panel.  </p>
 
- video
+<iframe width="320" height="180" src="https://www.youtube.com/watch?v=dqECnAv2w3I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="1"></iframe>
+
+
 
 ### Fluid-Sediment-Structure interactions
 <p align="justify"> Fluid-sediment-structure interactions are of great interest in environmental and industrial applications. The motion of solid objects immersed in fluid-sediment systems have a strong influence on the flow patterns of the fluid phase and morphology of the granular phase.  In order to gain insight into this complex coupling  I am currently working on the implementation of the several techniques and methodologies that allow moving objects in the two-phase model SedFoam.
