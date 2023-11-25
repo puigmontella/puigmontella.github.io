@@ -33,7 +33,7 @@ Tsai, B., Mathieu, A., Montellà, E. P., Hsu, T. J., & Chauchat, J. (2022). **An
 
 
 <p align="justify">
- At larger scales, it is also possible to observe the breaching process: dilatancy induces negative pore pressure that reduce the shearing preventing a shear failure. However, near the interface, the expansion of the granular material enhances particles to be released at the front face particle by particle forming a turbidity current and causing the breach front to  slowly regress. This mechanism is illustrated in the video found below:
+ At larger scales, it is also possible to observe the breaching process: dilatancy induces negative pore pressure that reduce the shearing preventing a shear failure. However, near the interface, the expansion of the granular material enhances particles to be released at the front face particle by particle forming a turbidity current and causing the breach front to  slowly regress. This mechanism is illustrated in the video found below: </p>
 
 [![breaching2D](https://res.cloudinary.com/marcomontalbano/image/upload/v1700913410/video_to_markdown/images/youtube--dqECnAv2w3I-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=dqECnAv2w3I "breaching2D")
 
