@@ -63,7 +63,7 @@ I kickstart the day quite late, feeling the relentless sun on me since the begin
 
 
 
-###   Day 8 - Montpellier - Capestang::
+###   Day 8 - Montpellier - Capestang:
 <p align="justify">  After a day of rest in Montpellier, my father joins me and my friend Marta heads back home. Heading south, we traverse coastal bars along sandy and gravel paths that run between waters. Much of the morning is spent following these paths, flanked by the Mediterranean on the left and several salt and marine ponds on the right. It's very windy but most of the time it is tailwind and helps us reach the touristic city of Sète without much effort. There, we stop for a while near the fort of Saint-Pierre where we recover our strength while watching the waves break against the rocks and the walls of the fort. Continuing along the coast, we pass various beaches until reaching Agde, where we pause for lunch. A few droplets fall in the afternoon, but they do not prevent us from continuing and climbing the path that follows alongside Canal du Midi. We cross vineyards, many locks, several bridges and leave behind boats that navigate the canal to finally arrive at the Capestang campsite where we spend the night.</p>
 
 
@@ -143,7 +143,9 @@ Two weeks later I resume the route to the south, today with my father as my cycl
 
 ###   Days 27 and 28 - Huelva - Atlantic ocean - Tenerife:
 
-Me, my partner, my bike and our van embark in a ferry for a couple of days to reach Tenerife. The sea is rough and furious but I am feeling calm and full of joy after have accomplished such an adventure. After 2400km, going up and down three times the mount Everest and just two flat tyres I finaly reach Tenerife. Thanks Lau, Gus, Xuanning, Marta, Núria, papa, mama, Maria, Cristóbal, Rosa, Tuca, Alma, Júlia, Jose, Jan, Joel, Mandalay, Alba and all the people that in some way or another have helped me in my journey to Tenerife.
+<p align="justify"> Me, my partner, my bike and our van embark in a ferry for a couple of days to reach Tenerife. The sea is rough and furious but I am feeling calm and full of joy after have accomplished such an adventure. After 2400km, going up and down three times the mount Everest and just two flat tyres I finaly reach Tenerife. Thanks Lau, Gus, Xuanning, Marta, Núria, papa, mama, Maria, Cristóbal, Rosa, Tuca, Alma, Júlia, Jose, Jan, Joel, Mandalay, Alba and all the people that in some way or another have helped me in my journey to Tenerife.
+ </p>
+
 
 
 ![day27_bikeGreTen](/assets/img/BikeGrenobleTenerife/day27.jpg "day27_bikeGreTen")
