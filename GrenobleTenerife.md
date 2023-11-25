@@ -73,7 +73,33 @@ I kickstart the day quite late, feeling the relentless sun on me since the begin
 
 
 ###   Day 9 - Capestang - Tautavel:
-<p align="justify"> a </p>
+<p align="justify">  I am alone again but I am accompanied by a breeze that pushes me during the first kilometers. Although my initial plan was to spend the day on the Canal du Midi in the direction of Carcassonne, I opt for a change and head south, facing the first hills that precede the Pyrenees. The day advances between secondary roads that lead me through changing landscapes, from vineyards, castles, canyons and striking rock formations. As evening approaches, the winding path leads me amidst small hills and karst structures, offering a glimpse of the Pyrenees' silhouette emerging on the distant horizon. </p>
 
 
 ![day9_bikeGreTen](/assets/img/BikeGrenobleTenerife/day9.jpg "day9_bikeGreTen")
+
+###   Day 10 - Tautavel - Roquefort-de-Sault:
+<p align="justify">  
+I resume my journey along a narrow road that winds through vineyards.  It is harvest time and there are many people in a region that is usually empty.  The first kilometers are pleasant, surrounded by the green vineyards and the emblematic views of the castle of Quéribus located on a very steep rocky peak. By mid-morning, I merge onto a busier road, a straight line of 40 kilometers where the only attraction is the red train of the pays Cathare et du Fenouillèdes. In addition, a relentless headwind drains me both physically and mentally. I pause in Axat for lunch and recharge my body.  I realize that I have to reconsider the route since I don't have much time or strength left to get where I had planned. Just 10 kilometers remain, unfortunately, they're all uphill.  I cross the gorges of Saint Georges and continue to climb between cliffs and rocks . My legs  tell me they had  enough and ask me  to stop. Eventually, I reach Roquefort-de-Sault safely, finding myself the only person at the deserted campsite.
+ </p>
+
+
+![day10_bikeGreTen](/assets/img/BikeGrenobleTenerife/day10.jpg "day10_bikeGreTen")
+
+###   Day 11 - Roquefort-de-Sault - Llo:
+<p align="justify">  
+I resume my journey along a narrow road that winds through vineyards.  It is harvest time and there are many people in a region that is usually empty.  The first kilometers are pleasant, surrounded by the green vineyards and the emblematic views of the castle of Quéribus located on a very steep rocky peak. By mid-morning, I merge onto a busier road, a straight line of 40 kilometers where the only attraction is the red train of the pays Cathare et du Fenouillèdes. In addition, a relentless headwind drains me both physically and mentally. I pause in Axat for lunch and recharge my body.  I realize that I have to reconsider the route since I don't have much time or strength left to get where I had planned. Just 10 kilometers remain, unfortunately, they're all uphill.  I cross the gorges of Saint Georges and continue to climb between cliffs and rocks . My legs  tell me they had  enough and ask me  to stop. Eventually, I reach Roquefort-de-Sault safely, finding myself the only person at the deserted campsite.
+ </p>
+
+
+![day11_bikeGreTen](/assets/img/BikeGrenobleTenerife/day11.jpg "day11_bikeGreTen")
+
+
+###   Day 12 - Llo - Ripoll:
+<p align="justify">  
+I wake up with more energy than yesterday to face the second stage of the Pyrenees. The day begins foggy and I slowly climb up to the col du Garavel. The reward? Some downhill curves that give me rest and a touch of amusement.  The fun ends soon and a long ascent awaits me without compassion. The road, despite being quite wide, it's not very busy, allowing me to climb at my own pace and take breaks whenever I need to. The path winds between mountains following the upstream course of the Aude river until reaching the Puyvalador reservoir. From there the slope softens and the road  opens into a broad valley  that passes through numerous coniferous forests.
+ Eventually, the road  takes me to the lake of Matermale where I stop for a well-deserved lunch. The fog continues but is not dense enough to hide the beauty of the Pyrenees. I decide to go around the lake on a sandy path and tackle the last climb of the day. The fog begins to disappear and from the highest point, at the Quillana pass, I have breathtaking views of the Puigmal and the rest of the peaks of the olla de Núria. I go down the streets and roads that pass through Llo. Eventually I reach the campsite exhausted. The fog returns and I realize I made the mistake of not putting sun cream so my whole face is burnt...
+ </p>
+
+
+![day12_bikeGreTen](/assets/img/BikeGrenobleTenerife/day12.jpg "day12_bikeGreTen")
