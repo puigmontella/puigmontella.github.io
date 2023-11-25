@@ -27,7 +27,7 @@ navbar-links:
     - Buidling our dreamed van:  "https://www.markdowntutorial.com/"
     - Crossing the GR11 Pyrenees Trail:  "https://www.markdowntutorial.com/"
     - Travelling in Asia:  "https://www.markdowntutorial.com/"
-    - A few months in Argentina:  "https://www.markdowntutorial.com/"
+    - A few months in Asia:  "https://www.markdowntutorial.com/"
 
 #  Author's home: "https://deanattali.com"
 
@@ -57,11 +57,11 @@ round-avatar: true
 social-network-links:
   email: "eduard.puig.montella@gmail.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: puigmontella
+  facebook: deanattali
   github: puigmontella
-  twitter: puigmontella
-  patreon: puigmontella
-  youtube: c/@eduardpuigmontella8496
+  twitter: daattali
+  patreon: DeanAttali
+  youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
@@ -94,8 +94,8 @@ rss-description: This website is a virtual proof that I'm awesome
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: false
-  facebook: false
+  twitter: true
+  facebook: true
   linkedin: true
   vk: false
 

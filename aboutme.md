@@ -12,4 +12,4 @@ title: About me
 
 ### My life beyond research
 
-<p align="justify">  I love research but in my free time I also like to bike, climb go into the wilderness, spend some time with friends and do some woodwork. </p> You can find out a bit more about my interests and hobbies clicking [here.](./GrenobleTenerife.md)
+<p align="justify">  I love research but in my free time I also like to bike, climb go into the wilderness, spend some time with friends and do some woodwork. </p> You can find out a bit more about my interests and hobbies clicking [here](./GrenobleTenerife.md).
