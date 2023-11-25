@@ -57,11 +57,11 @@ round-avatar: true
 social-network-links:
   email: "eduard.puig.montella@gmail.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
+  facebook: puigmontella
   github: puigmontella
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+  twitter: puigmontella
+  patreon: puigmontella
+  youtube: c/eduardpuigmontella8496
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
@@ -94,8 +94,8 @@ rss-description: This website is a virtual proof that I'm awesome
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
+  twitter: false
+  facebook: false
   linkedin: true
   vk: false
 
