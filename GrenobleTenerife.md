@@ -88,7 +88,8 @@ I resume my journey along a narrow road that winds through vineyards.  It is har
 
 ###   Day 11 - Roquefort-de-Sault - Llo:
 <p align="justify">  
-I resume my journey along a narrow road that winds through vineyards.  It is harvest time and there are many people in a region that is usually empty.  The first kilometers are pleasant, surrounded by the green vineyards and the emblematic views of the castle of Quéribus located on a very steep rocky peak. By mid-morning, I merge onto a busier road, a straight line of 40 kilometers where the only attraction is the red train of the pays Cathare et du Fenouillèdes. In addition, a relentless headwind drains me both physically and mentally. I pause in Axat for lunch and recharge my body.  I realize that I have to reconsider the route since I don't have much time or strength left to get where I had planned. Just 10 kilometers remain, unfortunately, they're all uphill.  I cross the gorges of Saint Georges and continue to climb between cliffs and rocks . My legs  tell me they had  enough and ask me  to stop. Eventually, I reach Roquefort-de-Sault safely, finding myself the only person at the deserted campsite.
+I wake up with more energy than yesterday to face the second stage of the Pyrenees. The day begins foggy and I slowly climb up to the col du Garavel. The reward? Some downhill curves that give me rest and a touch of amusement.  The fun ends soon and a long ascent awaits me without compassion. The road, despite being quite wide, it's not very busy, allowing me to climb at my own pace and take breaks whenever I need to. The path winds between mountains following the upstream course of the Aude river until reaching the Puyvalador reservoir. From there the slope softens and the road  opens into a broad valley  that passes through numerous coniferous forests.
+ Eventually, the road  takes me to the lake of Matermale where I stop for a well-deserved lunch. The fog continues but is not dense enough to hide the beauty of the Pyrenees. I decide to go around the lake on a sandy path and tackle the last climb of the day. The fog begins to disappear and from the highest point, at the Quillana pass, I have breathtaking views of the Puigmal and the rest of the peaks of the olla de Núria. I go down the streets and roads that pass through Llo. Eventually I reach the campsite exhausted. The fog returns and I realize I made the mistake of not putting sun cream so my whole face is burnt...
  </p>
 
 
@@ -97,9 +98,41 @@ I resume my journey along a narrow road that winds through vineyards.  It is har
 
 ###   Day 12 - Llo - Ripoll:
 <p align="justify">  
-I wake up with more energy than yesterday to face the second stage of the Pyrenees. The day begins foggy and I slowly climb up to the col du Garavel. The reward? Some downhill curves that give me rest and a touch of amusement.  The fun ends soon and a long ascent awaits me without compassion. The road, despite being quite wide, it's not very busy, allowing me to climb at my own pace and take breaks whenever I need to. The path winds between mountains following the upstream course of the Aude river until reaching the Puyvalador reservoir. From there the slope softens and the road  opens into a broad valley  that passes through numerous coniferous forests.
- Eventually, the road  takes me to the lake of Matermale where I stop for a well-deserved lunch. The fog continues but is not dense enough to hide the beauty of the Pyrenees. I decide to go around the lake on a sandy path and tackle the last climb of the day. The fog begins to disappear and from the highest point, at the Quillana pass, I have breathtaking views of the Puigmal and the rest of the peaks of the olla de Núria. I go down the streets and roads that pass through Llo. Eventually I reach the campsite exhausted. The fog returns and I realize I made the mistake of not putting sun cream so my whole face is burnt...
+Today is the last day of my Pyrenees adventure but I still have the highest and probably most spectacular mountain passes. The stage begins bordering agricultural fields and I continue to pedal through the wide valley that takes me to Puigcerdà and Alp where I have to stop to buy food. I return to the road and begin the ascent to La Molina along a road that I have done many times by car but it is unexplored by bike. The side of the road is narrow and despite not being a very busy place I do not fully enjoy the environment due to the traffic of passing cars.  However, near La Molina I can take paths further away from the traffic and enjoy the splendid views of the Pyrenees. Once I leave the ski resort of La Molina behind I head towards the Creueta pass, a demanding and long climb.  Yet, the sunny day eases the ascent while I contemplate the  grassy rugged mountains and a couple of marmots pop out to greet me. The descent is beautiful and delights me with views of the sea of mountains of Ripollès and Berguedà. While I am having fun on the way down, I halt abruptly at the awe-inspiring sight of Pedraforca's imposing silhouette. The snaky curves continue and I leave behind Castellar de n'Hug, Gombren, Campdevanol to finally reach Ripoll. I finish the day with exhausted legs but  my heart overflows with joy from experiencing such a magnificent stage.
  </p>
 
 
 ![day12_bikeGreTen](/assets/img/BikeGrenobleTenerife/day12.jpg "day12_bikeGreTen")
+
+
+
+
+
+
+
+###   Day 13 - Ripoll - El Masnou:
+<p align="justify">  
+I get up early, it's still dark but I have a long day ahead of me today. I set out on a route following the course of the Ter and detour along small paths to avoid taking a road congested with cars and trucks. The path becomes steeper and steeper and  more rocks pop up to the point that  I find myself getting off the bike and pushing my bike through this arduous terrain. This scene repeats relentlessly for what feels like eternal 5 kilometers. It takes me more than an hour and a half to complete them. Plus, an electrified fence to keep the herd protected gives me an intense electric shock. I decide that I've had enough and that no matter how beautiful the trail and the surroundings are, I'm not moving forward and I make the questionable decision to join the major road C-17 for a little distance to save myself from that horrible mountain roller coaster. Once off the C-17, I merge with a parallel road that runs through crops and livestock fields until I reach Vic where my father joins me  for the final kilometers. When we approach the Montseny massif, we take a path that crosses the gorge between Tagamanent and Figaró, which gives us a changing scenery from wide tracks of reddish earth to narrow paths that cross the river continuously. As we reach Granollers, the  green woods fade away, replaced by the gray of concrete. The road takes us to the canalization of Besos river that we follow downstream until we reach the Mediterranean sea. From there we follow the coastline path that I have  traveled countless times. We eventually arrive at my parents' home, where I'll spend the coming days recuperating and processing all I've experienced
+ </p>
+
+
+![day13_bikeGreTen](/assets/img/BikeGrenobleTenerife/day13.jpg "day13_bikeGreTen")
+
+
+
+
+
+
+
+
+
+
+
+
+
+###   Days 27 and 28 - Huelva - Atlantic ocean - Tenerife:
+
+After 2400km, going up and down three times the mount Everest and just two flat tyres I've reached Tenerife. Thanks Lau, Gus, Xuanning, Marta, Núria, papa, mama, Maria, Cristóbal, Rosa, Tuca, Alma, Júlia, Jose, Jan, Joel, Mandalay, Alba and all the people that in some way or another have helped me in my journey to Tenerife.
+
+
+![day27_bikeGreTen](/assets/img/BikeGrenobleTenerife/day27.jpg "day27_bikeGreTen")
