@@ -27,7 +27,7 @@ navbar-links:
     - Buidling our dreamed van:  "https://www.markdowntutorial.com/"
     - Crossing the GR11 Pyrenees Trail:  "https://www.markdowntutorial.com/"
     - Travelling in Asia:  "https://www.markdowntutorial.com/"
-    - A few months in Asia:  "https://www.markdowntutorial.com/"
+    - A few months in Argentina:  "https://www.markdowntutorial.com/"
 
 #  Author's home: "https://deanattali.com"
 
@@ -267,9 +267,9 @@ defaults:
   -
     scope:
       path: ""
-      type: "posts"
+      type: "page"
     values:
-      layout: "post"
+      layout: "page"
       comments: true  # add comments to all blog posts
       social-share: true # add social media sharing buttons to all blog posts
   -
