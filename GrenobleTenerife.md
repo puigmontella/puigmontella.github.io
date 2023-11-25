@@ -54,7 +54,26 @@ I kickstart the day quite late, feeling the relentless sun on me since the begin
 
 
 ###   Day 7 - Salin-de-Giraud - Montpellier:
-<p align="justify"> a </p>
+<p align="justify"> We set out in the morning crossing rice fields and pools of water full of flamingos. We expected a more diverse landscape, yet the delta's sight is monotonous as the day goes on, despite the favorable wind and minimal elevation gain of no more than 50 meters. Fortunately,  after lunch we come across the Canal du Rhône à Sète,  which brings us to a different scenery: cycling paths, old boats, and a sun that had been hidden during the early morning. Following the canal, we reach Aigues-Mortes, a fortified town surrounded by canals and Rhône's ponds. Passing through, we join the Eurovelo 8 route, a cycling path that runs along the coast of the European side of the  Mediterranean sea. For approximately 10 kilometers, we traverse a coastal bar  that lies between the Mediterranean Sea and the Estany d'Or to finally enter the metropolitan area of Montpellier.
+ </p>
+
 
 
 ![day7_bikeGreTen](/assets/img/BikeGrenobleTenerife/day7.jpg "day7_bikeGreTen")
+
+
+
+###   Day 8 - Montpellier - Capestang::
+<p align="justify">  After a day of rest in Montpellier, my father joins me and my friend Marta heads back home. Heading south, we traverse coastal bars along sandy and gravel paths that run between waters. Much of the morning is spent following these paths, flanked by the Mediterranean on the left and several salt and marine ponds on the right. It's very windy but most of the time it is tailwind and helps us reach the touristic city of Sète without much effort. There, we stop for a while near the fort of Saint-Pierre where we recover our strength while watching the waves break against the rocks and the walls of the fort. Continuing along the coast, we pass various beaches until reaching Agde, where we pause for lunch. A few droplets fall in the afternoon, but they do not prevent us from continuing and climbing the path that follows alongside Canal du Midi. We cross vineyards, many locks, several bridges and leave behind boats that navigate the canal to finally arrive at the Capestang campsite where we spend the night.</p>
+
+
+![day8_bikeGreTen](/assets/img/BikeGrenobleTenerife/day8.jpg "day8_bikeGreTen")
+
+
+
+
+###   Day 9 - Capestang - Tautavel:
+<p align="justify"> a </p>
+
+
+![day9_bikeGreTen](/assets/img/BikeGrenobleTenerife/day9.jpg "day9_bikeGreTen")
