@@ -15,8 +15,9 @@ title: My research
 
 <p align="justify">  My work consisted of proposing and implementing a continuum formulation in a three-dimensional continuum numerical model (SedFoam). The originality of the model was to incorporate dilatancy as an elasto-plastic normal stress and not as a modification of the friction coefficient.  Our model was able to predict the transient velocity of the granular avalanches for a wide range of initial volume fractions and the correct dynamics were observed when results were compared to experimental data. </p>
 
-Montellà, E. P., Chauchat, J., Chareyre, B., Bonamy, C., & Hsu, T. J. (2021). A two-fluid model for immersed granular avalanches with dilatancy effects. Journal of Fluid Mechanics, 925, A13.
-Tsai, B., Mathieu, A., Montellà, E. P., Hsu, T. J., & Chauchat, J. (2022). An Eulerian two-phase flow model investigation on scour onset and backfill of a 2D pipeline. European Journal of Mechanics-B/Fluids, 91, 10-26.
+Montellà, E. P., Chauchat, J., Chareyre, B., Bonamy, C., & Hsu, T. J. (2021). **A two-fluid model for immersed granular avalanches with dilatancy effects.** _Journal of Fluid Mechanics_, 925, A13.
+
+Tsai, B., Mathieu, A., Montellà, E. P., Hsu, T. J., & Chauchat, J. (2022). **An Eulerian two-phase flow model investigation on scour onset and backfill of a 2D pipeline.** _European Journal of Mechanics-B/Fluids_, 91, 10-26.
 
 ### Dilatancy and pore pressure feedback in granular materials: Column collapses
 
@@ -34,9 +35,7 @@ Tsai, B., Mathieu, A., Montellà, E. P., Hsu, T. J., & Chauchat, J. (2022). An E
 <p align="justify">
  At larger scales, it is also possible to observe the breaching process: dilatancy induces negative pore pressure that reduce the shearing preventing a shear failure. However, near the interface, the expansion of the granular material enhances particles to be released at the front face particle by particle forming a turbidity current and causing the breach front to  slowly regress. This mechanism is illustrated in the video found in the left panel below. The numerical model can be extended to study three dimensional problems such as debris flow or column collapses as shown in the video of the right panel.  </p>
 
-<iframe width="320" height="180" src="https://www.youtube.com/watch?v=dqECnAv2w3I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="1"></iframe>
-
-
+[![Comprehensive Markdown Crash Course](https://markdown-videos.deta.dev/youtube/dqECnAv2w3)](https://www.youtube.com/watch?v=dqECnAv2w3)
 
 ### Fluid-Sediment-Structure interactions
 <p align="justify"> Fluid-sediment-structure interactions are of great interest in environmental and industrial applications. The motion of solid objects immersed in fluid-sediment systems have a strong influence on the flow patterns of the fluid phase and morphology of the granular phase.  In order to gain insight into this complex coupling  I am currently working on the implementation of the several techniques and methodologies that allow moving objects in the two-phase model SedFoam. </p>
@@ -67,13 +66,18 @@ Videos
 
 
 
-Chareyre, B., Yuan, C., Montella, E. P., & Salager, S. (2017). Toward multiscale modelings of grain-fluid systems. In EPJ Web of Conferences (Vol. 140, p. 09027). EDP Sciences.
-Montellà, E. P., Chareyre, B., Salager, S., & Gens, A. (2018). Micromechanical study of multiphase flow based on the lattice Boltzmann method. In 2nd YADE Workshop: Discrete-based modeling of multi-scale coupled problems. Booklet of abstracts.
-Puig Montellà, E. (2019). Modeling capillarity and two-phase flow in granular media: from porescale to network scale. (Thesis)
-Montellà, E. P., Yuan, C., Chareyre, B., & Gens, A. (2019). A hybrid multiphase model based on lattice Boltzmann method direct simulations. arXiv preprint arXiv:1906.04722.
-Montellà, E. P., Chareyre, B., Salager, S., & Gens, A. (2020). Benchmark cases for a multi-component Lattice–Boltzmann method in hydrostatic conditions. MethodsX, 7, 101090.
-Montellà, E. P., Yuan, C., Chareyre, B., & Gens, A. (2020). Hybrid multi-scale model for partially saturated media based on a pore network approach and lattice boltzmann method. Advances in Water Resources, 144, 103709.
-Puig Montella, E., Yuan, C., Chareyre, B., & Gens Solé, A. (2020). Modeling multiphase flow with a hybrid model based on the Pore-network and the lattice Boltzmann method. In E3S Web of Conferences (Vol. 195, No. 02009, pp. 1-5). EDP Sciences.
+Chareyre, B., Yuan, C., Montella, E. P., & Salager, S. (2017). **Toward multiscale modelings of grain-fluid systems.** _In EPJ Web of Conferences_ (Vol. 140, p. 09027). EDP Sciences.
+
+Montellà, E. P., Chareyre, B., Salager, S., & Gens, A. (2018). **Micromechanical study of multiphase flow based on the lattice Boltzmann method.** _In 2nd YADE Workshop: Discrete-based modeling of multi-scale coupled problems. Booklet of abstracts._
+
+Montellà, E. P., (2019). **Modeling capillarity and two-phase flow in granular media: from porescale to network scale.** (PhD Thesis)
+
+
+Montellà, E. P., Chareyre, B., Salager, S., & Gens, A. (2020). **Benchmark cases for a multi-component Lattice–Boltzmann method in hydrostatic conditions.** _MethodsX_, 7, 101090.
+
+Montellà, E. P., Yuan, C., Chareyre, B., & Gens, A. (2020). **Hybrid multi-scale model for partially saturated media based on a pore network approach and lattice boltzmann method.** _Advances in Water Resources_, 144, 103709.
+
+Montellà, E. P., Yuan, C., Chareyre, B., & Gens Solé, A. (2020). **Modeling multiphase flow with a hybrid model based on the Pore-network and the lattice Boltzmann method.** _In E3S Web of Conferences_ (Vol. 195, No. 02009, pp. 1-5). EDP Sciences.
 
 
 ### Localized fluidization in granular materials
@@ -86,5 +90,6 @@ Puig Montella, E., Yuan, C., Chareyre, B., & Gens Solé, A. (2020). Modeling mul
 
 ![Localized](/assets/img/Research/localized.jpg "Localized")
 
-Montellà, E. P., Toraldo, M., Chareyre, B., & Sibille, L. (2016). Localized fluidization in granular materials: Theoretical and numerical study. Physical Review E, 94(5), 052905.
-Montellà, E. P., Toraldo, M., Chareyre, B., & Sibille, L. (2017). From continuum analytical description to discrete numerical modelling of localized fluidization in granular media. In EPJ Web of Conferences (Vol. 140, p. 09019). EDP Sciences.
+Montellà, E. P., Toraldo, M., Chareyre, B., & Sibille, L. (2016). **Localized fluidization in granular materials: Theoretical and numerical study.** _Physical Review E_, 94(5), 052905.
+
+Montellà, E. P., Toraldo, M., Chareyre, B., & Sibille, L. (2017). **From continuum analytical description to discrete numerical modelling of localized fluidization in granular media.** _In EPJ Web of Conferences_ (Vol. 140, p. 09019). EDP Sciences.
