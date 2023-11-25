@@ -112,11 +112,22 @@ Today is the last day of my Pyrenees adventure but I still have the highest and 
 
 ###   Day 13 - Ripoll - El Masnou:
 <p align="justify">  
-I get up early, it's still dark but I have a long day ahead of me today. I set out on a route following the course of the Ter and detour along small paths to avoid taking a road congested with cars and trucks. The path becomes steeper and steeper and  more rocks pop up to the point that  I find myself getting off the bike and pushing my bike through this arduous terrain. This scene repeats relentlessly for what feels like eternal 5 kilometers. It takes me more than an hour and a half to complete them. Plus, an electrified fence to keep the herd protected gives me an intense electric shock. I decide that I've had enough and that no matter how beautiful the trail and the surroundings are, I'm not moving forward and I make the questionable decision to join the major road C-17 for a little distance to save myself from that horrible mountain roller coaster. Once off the C-17, I merge with a parallel road that runs through crops and livestock fields until I reach Vic where my father joins me  for the final kilometers. When we approach the Montseny massif, we take a path that crosses the gorge between Tagamanent and Figaró, which gives us a changing scenery from wide tracks of reddish earth to narrow paths that cross the river continuously. As we reach Granollers, the  green woods fade away, replaced by the gray of concrete. The road takes us to the canalization of Besos river that we follow downstream until we reach the Mediterranean sea. From there we follow the coastline path that I have  traveled countless times. We eventually arrive at my parents' home, where I'll spend the coming days recuperating and processing all I've experienced
+I get up early, it's still dark but I have a long day ahead of me today. I set out on a route following the course of the Ter and detour along small paths to avoid taking a road congested with cars and trucks. The path becomes steeper and steeper and  more rocks pop up to the point that  I find myself getting off the bike and pushing my bike through this arduous terrain. This scene repeats relentlessly for what feels like eternal 5 kilometers. It takes me more than an hour and a half to complete them. Plus, an electrified fence to keep the herd protected gives me an intense electric shock. I decide that I've had enough and that no matter how beautiful the trail and the surroundings are, I'm not moving forward and I make the questionable decision to join the major road C-17 for a little distance to save myself from that horrible mountain roller coaster. Once off the C-17, I merge with a parallel road that runs through crops and livestock fields until I reach Vic where my father joins me  for the final kilometers. When we approach the Montseny massif, we take a path that crosses the gorge between Tagamanent and Figaró, which gives us a changing scenery from wide tracks of reddish earth to narrow paths that cross the river continuously. As we reach Granollers, the  green woods fade away, replaced by the gray of concrete. The road takes us to the canalization of Besos river that we follow downstream until we reach the Mediterranean sea. From there we follow the coastline path that I have  traveled countless times. We eventually arrive at my parents' home, where I'll spend the coming days recuperating and processing all I've experienced.
  </p>
 
 
 ![day13_bikeGreTen](/assets/img/BikeGrenobleTenerife/day13.jpg "day13_bikeGreTen")
+
+
+
+
+###   Day 14 - El Masnou - Sitges:
+<p align="justify">  
+Two weeks later I resume the route to the south, today with my father as my cycling partner. The first hour consists of following the coastline cycle way towards Barcelona. We go through the Forum and follow the various cycle paths that border the touristic beaches of Barcelona. We cross the port and turn up Parallel street and then go along a busy road to Hospitalet de Llobregat. Then we follow the path that runs parallel to the Llobregat river. We start a mountainous ascent on sandy paths that become more and more technical and steeper. At some points, the terrain is so demanding that we need to jump off the bike and push them. We pass through Begues, marking our entry into the Garraf natural park. Here, we traverse sandy  tracks and secondary roads as we pedal between limestone rocks, Mediterranean vegetation, and the distant sight of the sea on the horizon. Descending along wide tracks, we eventually reach Sitges, where we reward ourselves with a well-deserved beer.
+ </p>
+
+
+![day14_bikeGreTen](/assets/img/BikeGrenobleTenerife/day14.jpg "day143_bikeGreTen")
 
 
 
@@ -132,7 +143,7 @@ I get up early, it's still dark but I have a long day ahead of me today. I set o
 
 ###   Days 27 and 28 - Huelva - Atlantic ocean - Tenerife:
 
-After 2400km, going up and down three times the mount Everest and just two flat tyres I've reached Tenerife. Thanks Lau, Gus, Xuanning, Marta, Núria, papa, mama, Maria, Cristóbal, Rosa, Tuca, Alma, Júlia, Jose, Jan, Joel, Mandalay, Alba and all the people that in some way or another have helped me in my journey to Tenerife.
+Me, my partner, my bike and our van embark in a ferry for a couple of days to reach Tenerife. The sea is rough and furious but I am feeling calm and full of joy after have accomplished such an adventure. After 2400km, going up and down three times the mount Everest and just two flat tyres I finaly reach Tenerife. Thanks Lau, Gus, Xuanning, Marta, Núria, papa, mama, Maria, Cristóbal, Rosa, Tuca, Alma, Júlia, Jose, Jan, Joel, Mandalay, Alba and all the people that in some way or another have helped me in my journey to Tenerife.
 
 
 ![day27_bikeGreTen](/assets/img/BikeGrenobleTenerife/day27.jpg "day27_bikeGreTen")
