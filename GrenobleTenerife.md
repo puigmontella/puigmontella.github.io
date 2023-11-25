@@ -44,3 +44,17 @@ I kickstart the day quite late, feeling the relentless sun on me since the begin
 
 
 ![day5_bikeGreTen](/assets/img/BikeGrenobleTenerife/day5.jpg "day5_bikeGreTen")
+
+
+###   Day 6 - Marseille - Salin-de-Girau:
+<p align="justify"> After a few days of rest, I've regained my strength. Plus, in the upcoming days I will be accompanied by one of my best friends and not much elevation gain is expected before the Pyrenees. Today is not a day with much nature, it's all about navigating away from Marseille's urban sprawl. We pass through small hills leading to Berre Lake. This lake is heavily urbanized — if not houses, then industries dominate.  To get away from the busiest roads we decide to take paths that cross some salt ponds. It's not the fastest, but the journey becomes more entertaining and safer. Despite the stagnant water's smell, we choose to eat lunch by the ponds; it's preferable to be amidst flamingos and stinky ponds than next to a busy national road. In the afternoon, we are forced to pedal alongside a road crowded with trucks until we reach the Rhône river's mouth. A free ferry for cyclists brings us to the other side, where the Camargue region begins and we find a calm spot to spend the night. </p>
+
+
+![day6_bikeGreTen](/assets/img/BikeGrenobleTenerife/day6.jpg "day6_bikeGreTen")
+
+
+###   Day 7 - Salin-de-Giraud - Montpellier:
+<p align="justify"> a </p>
+
+
+![day7_bikeGreTen](/assets/img/BikeGrenobleTenerife/day7.jpg "day7_bikeGreTen")
