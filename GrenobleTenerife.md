@@ -4,7 +4,7 @@ title: Bikepacking from Grenoble to Tenerife
 ###subtitle: Why you'd want to go on a date with me
 ---
 
-<p align="justify">  In the late summer of 2023 I decided to move to Tenerife with my partner. I have lived in Grenoble for the last 8 years and I thought that the best way to move to Tenerife was to embark on a journey of 2400km by bicycle. This trip gifted me countless memories and adventure and I tried to capture some of them in this website. For those seeking more detailed info, GPS tracks and full path everything is available [here](https://www.komoot.com/collection/2440416/-grenoble-el-masnou-tenerife) </p>
+<p align="justify">  In the late summer of 2023 I decided to move to Tenerife with my partner. I have lived in Grenoble for the last 8 years and I thought that the best way to move to Tenerife was to embark on a journey of 2400km by bicycle. This trip gifted me countless memories and adventure and I tried to capture some of them in this website. For those seeking more detailed info, GPS tracks and full path everything is available </p> [here](https://www.komoot.com/collection/2440416/-grenoble-el-masnou-tenerife) .
 
 ### Day 1 - Grenoble - Dévoluy:
 
