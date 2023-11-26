@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Sample blog post to learn markdown tips
+title: A glimpse of my research
 subtitle: There's lots to learn!
-gh-repo: daattali/beautiful-jekyll
+gh-repo: puigmontella/puigmontella.github.io
 gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
