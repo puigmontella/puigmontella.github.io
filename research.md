@@ -5,7 +5,7 @@ title: My research
 
 
 
-### Dilatancy and pore pressure feedback in granular materials: Avalanches
+### Dilatancy and pore pressure feedback in granular materials: Avalanches {#local-research}
 
 
 <p align="justify"> Dilatancy is a material property that refers to the volume change observed in granular materials when they are subjected to shear deformations. When a deposited horizontal layer of granular material fully immersed in a liquid is suddenly inclined above a certain critical angle, it starts to flow down the slope because of gravity. The initial dynamics of these underwater avalanches strongly depends on the initial volume fraction. If the granular bed is initially loose, i.e. looser than the critical state, the avalanche is triggered almost instantaneously and exhibits a strong acceleration, whereas for an initially dense granular bed, i.e. denser than the critical state, the avalanche's mobility remains low for some time before it starts flowing normally. Simultaneously, initially loose beds experience contractancy, thus, the pore space is reduced and the fluid inside the pores is expelled. This results in positive pore pressures than enhance the rapid motion of the avalanche. On the contrary,  initially dense granular beds show a diltaive behavior.  The pore space gets larger and the fluid is sucked into the pores. Consequently, negative pore pressures arise within the medium hindering the motion of the granular flow . The complex behavior of these avalanches can be, therefore, explained by a combination of geometrical granular dilatancy and pore pressure feedback on the granular media.   </p>

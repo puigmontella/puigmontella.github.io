@@ -8,3 +8,4 @@ tags: [test]
 comments: true
 ---
 aaaaaaaaaaaaa
+[this is a link to a section inside this page]({#local-research}).
