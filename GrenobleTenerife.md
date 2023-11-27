@@ -169,9 +169,9 @@ I wake up with a headache and all the symptoms of a cold that I was trying to hi
 
 
 
-###   Day 18 -
+###   Day 18 - La Mata de Morella - Albentosa:
 <p align="justify">  
-AAAAA
+I leave  L Mata behind after 4 days of rest. I pass quickly to  Aragon region, gradually winding up through curves that lead me to Cantavieja. The climb keeps me entertained, snaking through ravines and steep landscapes. Finally I reach the port of Cuarto Pelado, despite this name, the downhill is a lush forest ride. After Fortanete I take a very narrow and twisty road that climbs up again.  The mountain slopes ease up, revealing a wide, treeless valley with cows chilling by Fortanete pass. The descent's a joyride, gentle slopes and just a few bends through a pine-filled valley. I arrive at Linares de Mora, perched on a rock, looking way more majestic than it probably should.  One last climb before Nogueruelas pass, where I grab lunch and rest up for a long and pleasant descent that continues through a landscape marked by a gentle relief until I reach Fonseca. Then, things get steeper, limestone rocks showing up just like they did in the morning. A few kilometers further I arrive at the planned destination where I sleep in the van. No more tent nights from now. My partner is joining me on the road in the van!
  </p>
 
 
@@ -183,9 +183,9 @@ AAAAA
 
 
 
-###   Day 19 -
+###   Day 19 - Albentosa - Villar del Humo:
 <p align="justify">  
-AAAAA
+The sun rises and shines but I'm still feeling worn out, fighting this stubborn cold. The chilly morning and the first trees with yellow leaves remind me that we are in the middle of autumn. The road is climbing, but it's a gentle rise. Plus, the greenish surroundings and the morning sun feel kinda nice. Tracing the river's path I flow till Torrijas. Then, it's a rollercoaster: down and up till Arcos de las Salinas. I pass close to the colorful Javalambre mountain range. A burst of yellow and red hills reminds me of those Purmamarca hills back in Argentina. After that mountain pass,  just like a magic trick, Teruel hills, bare and colorful, morph into steep pine-covered mountains. A descent down a very beautiful narrow road leads me to a very imposing gorge shaped by the Túria river. I pass it over crossing a viaduct tucked in this narrow gorge and find myself for the first time inside the region of Castilla La Mancha. The road twists and turns through rocks, then suddenly, I'm on this wide, straight path. No more mountains, just this sprawling plateau with lush green fields. To the horizon  mountains show their jagged silhouettes in every direction. Past Fuentelespino de Moya, I take some gravel paths, rolling up and down these hills, under a blazing sun. The views are stunning, but the constant bumps and stones are pretty cumbersome. I appreciate being back on the road, a paved track without any cars that runs through a sparse pine forest. As the forest gets more abundant, I take this zigzagging road through the mountains to eventually reach Villar del Humo. Evening's approaching, the orange light is fading, so I decide to call it a night by the Cabriel River.
  </p>
 
 
@@ -197,7 +197,9 @@ AAAAA
 
 
 
-###   Day 20 -
+###   Day 20 - Villar del Humo - Villalgordo del Júcar:
+Després d’una nit freda em llevo amb mal de cap
+
 <p align="justify">  
 AAAAA
  </p>
@@ -211,7 +213,7 @@ AAAAA
 
 
 
-###   Day 21 -
+###   Day 21 - Barrax - Génave:
 <p align="justify">  
 AAAAA
  </p>
@@ -225,7 +227,7 @@ AAAAA
 
 
 
-###   Day 22 -
+###   Day 22 - Génave - Úbeda:
 <p align="justify">  
 AAAAA
  </p>
@@ -237,7 +239,7 @@ AAAAA
 
 
 
-###   Day 23 -
+###   Day 23 - Úbeda - Bujalance:
 <p align="justify">  
 AAAAA
  </p>
@@ -251,7 +253,7 @@ AAAAA
 
 
 
-###   Day 24 -
+###   Day 24 - Bujalance - Tocina:
 <p align="justify">  
 AAAAA
  </p>
@@ -265,7 +267,7 @@ AAAAA
 
 
 
-###   Day 25 -
+###   Day 25 - Tocina - Sevilla:
 <p align="justify">  
 AAAAA
  </p>
@@ -279,7 +281,7 @@ AAAAA
 
 
 
-###   Day 26 -
+###   Day 26 - Umbrete - Port de Huelva:
 <p align="justify">  
 AAAAA
  </p>
