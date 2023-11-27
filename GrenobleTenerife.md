@@ -240,7 +240,7 @@ We wake up at a motorhome station with all the necessary services and spectacula
 
 ###   Day 23 - Úbeda - Bujalance:
 <p align="justify">  
-AAAAA
+As expected, the day starts just where yesterday ended: surrounded by more olive trees. But today there is a twist: I ditch the roads for some sandy tracks and paths cutting through the olive groves. More than once the paths literally pass through the middle of the fields and the olive trees act like a shield from that relentless sun. It's more fun to run along these trails but I'm going much slower. Slowly, I make my way until I reach Mengíbar where I cross the Guadalquivir and climb a sandy track that runs over gentle hills. No olives in sight here, just crazy headwind, relentless, making every pedal feel like a marathon. The landscape shows bare hills and no buildings, a constant reminder I'm in one of the most empty and forgotten areas of Spain. I slowly move forward and notice that the sky is getting darker little by little. Oh great... here comes the rain. Luckily it's only a few drops and I can keep going without getting wet. I continue to push through the sandy paths that have been my companions all day long. I hit a secondary road, back in the olive tree world. The wind is still  howling, freezing me to the bone as I wrap up this leg of the journey. But just before I get to Bujalance, hints of clear sky start peeking through. The orange light that precedes sunset gives me the boost I need to reach the town.
  </p>
 
 
@@ -254,7 +254,7 @@ AAAAA
 
 ###   Day 24 - Bujalance - Tocina:
 <p align="justify">  
-AAAAA
+The day dawns cold and wet. One of those days when you want to stay in bed and not leave the house (van). I start pedaling along an unpopular national road that follows the course of the Guadalquivir river. The cloudy sky announces a storm and a few kilometers later it starts raining heavily. I'm stuck without a shelter in sight. The rain continues until I reach Alcolea. There I hide where I can and wait for the rain to stop.  After a while I continue on ugly and busy roads that pass through the suburbs of Córdoba. The gray color of the concrete and the streets is mixed with the cloudy sky. Luckily, just before diving into the city chaos, I catch a bike path that crosses Córdoba. I  don't  swing by any famous or emblematic spot, my legs can't handle more pedaling, my back is crying for a break and the cold I still carry in my body wonders why the heck I decided to ride so many kilometers in the rain. I leave Córdoba behind and travel a few more kilometers along an unpleasant national road to Almodóvar del Río where I climb up to an imposing castle that rises above the town. There I have lunch with my partner and I spend the afternoon pedaling on secondary but very busy roads where there is nothing worth mentioning. y the time I reach Tocina, it's about finding a spot to crash for the night.
  </p>
 
 

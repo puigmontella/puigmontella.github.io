@@ -46,7 +46,7 @@ Wood was placed, again, the curvy shape of our walls and ceiling was driving me 
 
 ![furniture_1](/assets/img/Mandalay/furniture_1.jpg "furniture_1")
 
-![furniture_1](/assets/img/Mandalay/furniture_1.jpg "furniture_1")
+![furniture_2](/assets/img/Mandalay/furniture_2.jpg "furniture_2")
 
 ### Bed
 <p align="justify">
