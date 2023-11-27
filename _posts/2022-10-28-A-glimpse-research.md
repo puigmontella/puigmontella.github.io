@@ -2,7 +2,7 @@
 layout: post
 title: A glimpse of my research
 subtitle: The weird world of granular flows
-cover-img: /assets/img/path_research.jpg
+cover-img: /assets/img/path_research_v2.jpg
 thumbnail-img: /assets/img/thumb_research_disk.png
 #tags: [research, granular]
 gh-repo: puigmontella/puigmontella.github.io
