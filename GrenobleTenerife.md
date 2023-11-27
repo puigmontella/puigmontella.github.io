@@ -198,10 +198,9 @@ The sun rises and shines but I'm still feeling worn out, fighting this stubborn 
 
 
 ###   Day 20 - Villar del Humo - Villalgordo del Júcar:
-Després d’una nit freda em llevo amb mal de cap
 
 <p align="justify">  
-AAAAA
+After a cold night I wake up with a headache and accumulated fatigue. I'm not over the cold, and pedaling through the day isn't really helping. The morning passes slowly as I cross leafy hills with a relief that flattens out and loses its green little by little. Among the forgotten remnants of castles and forts, the scene around me is a picture of deserted Spain. Almost without realizing it, the landscape becomes a colorful patchwork of agricultural fields  stretching to the horizon. Somewhere near Motilla del Palancar I take a busy and dull regional road surrounded by a forest of wind turbines. The fields of reddish soil begin to give way to  olive tree fields, a sign I’m headed south.  Olive trees are about to rule the landscape for the next few days. The road keeps rolling without much fuss until Villalgordo del Júcar, a nice spot to crash for the night.
  </p>
 
 
@@ -215,7 +214,7 @@ AAAAA
 
 ###   Day 21 - Barrax - Génave:
 <p align="justify">  
-AAAAA
+The day kicks off in Barrax, after a much-needed rest day  we took the opportunity to find a nicer place to sleep and cut down 50km of my trip.  We spent the night next to one of those classic Castilla-La Mancha windmills. They stand tall, painting a traditional picture against a background of modern wind turbines on the horizon. I spend the morning cruising a fresh, quiet, wide road, cutting through green fields on reddish soil. But then, the landscape morphs into an endless, shadeless straight line under a blazing sun. Finally I  hit Robledo, where my partner and I meet for lunch. We eat on this sandy track, feeling more like a dry riverbed. Just as I'm about to roll out, a flock of sheep swings by and I’m forced to wait a few more minutes before I get back to pedaling. The afternoon's start isn't as smooth as I expected, riding along a busy national road with noisy trucks and cars overtaking me all the time.  Luckily the road goes through a natural environment that, despite not having anything outstanding, the high-toned colors of the sky, forest, rock and land make the views spectacular and I stop many times to take photos. Somewhere past Alcaraz, I take a detour down a sandy path not even marked on my map. Turns out, I've stumbled into the Segura greenway, an old railway line. Bridges, tunnels, even ghostly old stations scatter along this 20-kilometer stretch, and I’m the only soul around.  At the end of the day, olive groves start taking over. In fact, we spend the night in a village that thrives on olive oil.
  </p>
 
 
@@ -229,7 +228,7 @@ AAAAA
 
 ###   Day 22 - Génave - Úbeda:
 <p align="justify">  
-AAAAA
+We wake up at a motorhome station with all the necessary services and spectacular views of the Segura natural park. After a good streak of sunshine, the sky starts to cloud over and it is starting to get cold. In the morning I take the greenway again and make a cycling friend who recommends some paths to avoid taking the national road. The greenway path continues with the same trend as yesterday, gentle slopes and few curves.  Everywhere I look, it's olive trees for kilometers, even scaling hills and mountains. It's crazy how we humans shape the land to fit our needs. Around noon I join a road that goes up  to Castellar.  Lunchtime with my partner in this mountain-top village, with views of olive groves stretching out to the imposing Segura mountains. From there I take a secondary road that crosses endless olive tree fields. I gotta admit, spending the whole day surrounded by olives, while charming, made things pretty darn monotone and I can't highlight many other things. So, after a day lost in the world of olive trees, I finally roll into Ubeda. Not that it's a big city, but after days in the quieter corners of Spain, the hustle and bustle got me impressed. Tonight, we're ditching the van life and sleeping in a hotel, my legs are cheering already!
  </p>
 
 
