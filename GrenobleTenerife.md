@@ -130,9 +130,9 @@ Two weeks later I resume the route to the south, today with my father as my cycl
 ![day14_bikeGreTen](/assets/img/BikeGrenobleTenerife/day14.jpg "day14_bikeGreTen")
 
 
-###   Day 15 -
+###   Day 15 - Sitges - Cambrils:
 <p align="justify">  
-AAAAA
+I'm back on the road solo. Morning rolls by with a mix of concrete and beach vibes as I go through Sitges, Vilanova i la Geltrú, Cubelles, and Cunit. Find a park for lunch, nothing fancy but my stomach is growling. I meet Alma, a fellow biker. We swapped stories and tips over lunch. We say goodbye to each other and I hit the road again, sticking close to the coast, weaving through bike lanes, boulevards, and bustling streets. I cross Tarragona and  Salou passing not too far from the silhouettes of the roller coasters of Port aventura.  A last bike lane by the sea between Salou and Cambrils reminds me how touristy this area is. It's getting dark and I decide to stop for the night at the most expensive campsite I've ever come across.
  </p>
 
 
@@ -141,10 +141,9 @@ AAAAA
 
 
 
-###   Day 16 -
+###   Day 16 - Cambrils - Les Cases d’Alcanar:
 <p align="justify">  
-AAAAA
- </p>
+The day wakes up slowly, unveiling a bright sun and a serene sea next to Miami Platja and L'Hospitalet de l'Infant's shores. I leave the coast for a few kilometers to pass through two iconic cement structures of southern Catalonia:the Vandellòs power station and the water tower. After a stretch on a long national road, I manage to wiggle through the streets of Ametlla de Mar for a sandwich break. I stick close to the sea, though it's out of sight for a while when I follow parallel roads. But things take a rough turn as the service road I'm on becomes a rocky and bumpy path. Had to stop and push the bike. I didn't see that coming on this mostly flat route. After a bit of swearing (which, believe me, isn't very common in me), I stumble upon a massive underground passage, totally forbidden, but I cross it anyway. The tunnel is long, but spacious enough to hint at the sea on the other side. Exiting, I bump into the gorgeous Aliga beach. I keep skirting the coast till I hit the rice paddies, revealing the Ebre delta's unique landscape. Slowly navigating through the maze of paddies, canals, and salt ponds, I finally get to Amposta and I cross the Ebre River.I stop for a late lunch break and stock up for the next few days. On the horizon, the Ports mountain range stands tall, a strong contrast to my flat rides of the past days. I continue south and reach the Casas d'Alcanar where I crash for the night. </p>
 
 
 ![day16_bikeGreTen](/assets/img/BikeGrenobleTenerife/day16.jpg "day16_bikeGreTen")
@@ -155,9 +154,10 @@ AAAAA
 
 
 
-###   Day 17 -
+###   Day 17 - Les Cases d’Alcanar - La Mata de Morella:
 <p align="justify">  
-AAAAA
+I wake up with a headache and all the symptoms of a cold that I was trying to hide until now. I gather some strength with a good breakfast and go up the street in the opposite direction to the sea, a sea that I will not see again until the last stage of the journey. A gradual ascent takes me between fields and olive groves, snaking along sandy tracks and narrow roads.  I stop at Xert for a sandwich and grabbed some pills for my throat. I'm exhausted and there's still more than half of the stage ahead. From this moment I join a very busy regional road that  into the Ports area and its particular mountain landscapes. I've driven this road plenty of times by car but biking it's a whole different experience. I discover that I can't cycle on a new viaduct that they've built and that would allow me shortcut the long road. I am forced to take a bunch of extra curves, but luckily no cars in sight. I even have lunch in the middle of the road without a soul bothering me!  I am feeling worse by the minute, but lunch gives me a boost to push on to the Querol port and downhill to the awe-inspiring walled town of Morella. From there I make a slight climb and I follow a busy but beautiful sandy track because the Forcall bridge got wiped out by some floods weeks back. The only way through is this car packed path. Finally I arrive in La Mata around 7 PM, crashing at some friends' place for a few days to rest up and recover from the cold.
+
  </p>
 
 
