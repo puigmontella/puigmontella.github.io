@@ -34,7 +34,7 @@ title: Bikepacking from Grenoble to Tenerife
 ![day4_Transpirenaica](/assets/img/Transpirenaica/day4.jpg "day4_Transpirenaica")
 
 
-<!-- ###   Day 5 - Maçanet de Cabrenys - Refugi del Bassegoda Can Galan:
+###   Day 5 - Maçanet de Cabrenys - Refugi del Bassegoda Can Galan:
 
 <p align="justify">aaa </p>
 
@@ -44,6 +44,7 @@ title: Bikepacking from Grenoble to Tenerife
 ###   Day 6 - Refugi del Bassegoda Can Galan - Beget:
 <p align="justify">aaa </p>
 ![day6_Transpirenaica](/assets/img/Transpirenaica/day6.jpg "day6_Transpirenaica")
+![day6_long_Transpirenaica](/assets/img/Transpirenaica/day6_long.jpg "day6_long_Transpirenaica")
 
 
 ###   Day 7 - Beget - Camprodon:
@@ -52,7 +53,7 @@ title: Bikepacking from Grenoble to Tenerife
 
 ![day7_Transpirenaica](/assets/img/Transpirenaica/day7.jpg "day7_Transpirenaica")
 
-
+<!--
 
 ###   Day 8 - Camprodon - Refugi d'Ulldeterg:
 <p align="justify">aaa </p>
