@@ -268,7 +268,7 @@ The day dawns cold and wet. One of those days when you want to stay in bed and n
 
 ###   Day 25 - Tocina - Sevilla:
 <p align="justify">  
-AAAAA
+Today's forecast? Rain, wind and 60-80km/h gusts according to the weather apps. Still, Even so, I decide to hit the road because I've got a good 180 kilometers to go before reaching Huelva, and just two days to pull it off. The first hour on the bike is relatively calm, headwind but little rain. But little by little the wind and the rain intensify and drops are coming down like there's no tomorrow. I spend two hours riding along the side of a busy road with little visibility due to the amount of rain that falls.  I am drenched to the bone, shivering with cold, I'm moving at a snail's pace and stopping very often because I can't stand the cold. By the time I hit Seville,  I ask my partner to rescue me because I feel exhausted and the cold has taken over my body. In the afternoon we go to a supermarket and shelter in an area full of vans. We drink tea and rest all afternoon to warm us up while the storm shakes us and passes by wreaking and bringing chaos all over southern Andalusia.
  </p>
 
 
@@ -282,7 +282,7 @@ AAAAA
 
 ###   Day 26 - Umbrete - Port de Huelva:
 <p align="justify">  
-AAAAA
+Last day before ending this adventure. It's not a sunny day,  but there's that post-storm peace in the air. As I face the first kilometers the cloudy sky fades and a blue sky makes way for me. I follow a flat road that runs through an extensive field of olive trees until I reach the village of Pilas. An hour later I switch to a quiet, lesser-known secondary road, passing scattered pine forests,  and I finally  enter the surroundings of the Doñana park. The GPS still has a little surprise for me and suggests that I take a sandy road that is getting narrower by the kilometer. Sand piles up, making it a struggle to pedal so I have to get off the bike constantly because the wheels keep sinking. Pushing through bushes and sand, I'm in my own little world on this isolated path away from everything. Eventually, I find a broader path beneath the high voltage lines and I follow it until I reach another dirt track. A few kilometers later I meet my partner where we have our last lunch in the van. There are only 20 kilometers left to reach the destination: the port of Huelva. After lunch I continue along roads flanked by strawberry fields and greenhouses. I leave behind the green of the park and the field. As I get near the port the landscape morphs into an industrial view: towering chimneys, pipes, smoke, steel structures, tanks and complex machinery paint the scene. With a big smile and full of joy I cross the police checkpoints and enter the port. There it is, the ferry that'll sail me into a whole new chapter of my life.
  </p>
 
 
