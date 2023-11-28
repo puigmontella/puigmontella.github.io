@@ -11,114 +11,79 @@ title: Bikepacking from Grenoble to Tenerife
 
 <p align="justify">aaa </p>
 
-![day1_bikeGreTen](/assets/img/BikeGrenobleTenerife/day1.jpg "day1_bikeGreTen")
+![day1_Transpireanica](/assets/img/Transpirenaica/day1.jpg "day1_Transpireanica")
 
 
 ###  Day 2 - Sant Quirze de Colera - Voltants Requessens:
 
 <p align="justify">aaa </p>
-![day2_bikeGreTen](/assets/img/BikeGrenobleTenerife/day2.jpg "day2_bikeGreTen")
+![day2_Transpirenaica](/assets/img/Transpirenaica/day2.jpg "day2_Transpirenaica")
 
 
 ###  Day 3 - Requessens - La Jonquera:
 <p align="justify">aaa </p>
 
 
-![day3_bikeGreTen](/assets/img/BikeGrenobleTenerife/day3.jpg "day3_bikeGreTen")
+![day3_Transpirenaica](/assets/img/Transpirenaica/day3.jpg "day3_Transpirenaica")
 
 
 ###   Day 4 - La Jonquera - Maçanet de Cabrenys:
 
 <p align="justify">aaa </p>
 
-![day4_bikeGreTen](/assets/img/BikeGrenobleTenerife/day4.jpg "day4_bikeGreTen")
+![day4_Transpirenaica](/assets/img/Transpirenaica/day4.jpg "day4_Transpirenaica")
 
 
-###   Day 5 - Maçanet de Cabrenys - Refugi del Bassegoda Can Galan:
+<!-- ###   Day 5 - Maçanet de Cabrenys - Refugi del Bassegoda Can Galan:
 
 <p align="justify">aaa </p>
 
-![day5_bikeGreTen](/assets/img/BikeGrenobleTenerife/day5.jpg "day5_bikeGreTen")
+![day5_Transpirenaica](/assets/img/Transpirenaica/day5.jpg "day5_Transpirenaica")
 
 
 ###   Day 6 - Refugi del Bassegoda Can Galan - Beget:
 <p align="justify">aaa </p>
-![day6_bikeGreTen](/assets/img/BikeGrenobleTenerife/day6.jpg "day6_bikeGreTen")
+![day6_Transpirenaica](/assets/img/Transpirenaica/day6.jpg "day6_Transpirenaica")
 
 
 ###   Day 7 - Beget - Camprodon:
 <p align="justify">aaa </p>
 
 
-![day7_bikeGreTen](/assets/img/BikeGrenobleTenerife/day7.jpg "day7_bikeGreTen")
+![day7_Transpirenaica](/assets/img/Transpirenaica/day7.jpg "day7_Transpirenaica")
 
 
 
-###   Day 8 - Montpellier - Capestang:
+###   Day 8 - Camprodon - Refugi d'Ulldeterg:
 <p align="justify">aaa </p>
 
-![day8_bikeGreTen](/assets/img/BikeGrenobleTenerife/day8.jpg "day8_bikeGreTen")
+![day8_Transpirenaica](/assets/img/Transpirenaica/day8.jpg "day8_Transpirenaica")
 
 
 
 
-###   Day 9 - Capestang - Tautavel:
+###   Day 9 - Refugi d'Ulldeter - Queralbs:
 <p align="justify">aaa </p>
 
-![day9_bikeGreTen](/assets/img/BikeGrenobleTenerife/day9.jpg "day9_bikeGreTen")
+![day9_Transpirenaica](/assets/img/Transpirenaica/day9.jpg "day9_Transpirenaica")
 
-###   Day 10 - Tautavel - Roquefort-de-Sault:
-<p align="justify">aaa </p>
-
-
-![day10_bikeGreTen](/assets/img/BikeGrenobleTenerife/day10.jpg "day10_bikeGreTen")
-
-###   Day 11 - Roquefort-de-Sault - Llo:
+###   Day 10 - Queralbs - Puigcerdà:
 <p align="justify">aaa </p>
 
 
-![day11_bikeGreTen](/assets/img/BikeGrenobleTenerife/day11.jpg "day11_bikeGreTen")
+![day10_Transpirenaica](/assets/img/Transpirenaica/day10.jpg "day10_Transpirenaica")
 
-
-###   Day 12 - Llo - Ripoll:
-<p align="justify">aaa </p>
-
-![day12_bikeGreTen](/assets/img/BikeGrenobleTenerife/day12.jpg "day12_bikeGreTen")
-
-
-
-
-
-
-
-###   Day 13 - Ripoll - El Masnou:
+###   Day 11 - Puigcerdà - Andorra la Vella:
 <p align="justify">aaa </p>
 
 
-![day13_bikeGreTen](/assets/img/BikeGrenobleTenerife/day13.jpg "day13_bikeGreTen")
+![day11_Transpirenaica](/assets/img/Transpirenaica/day11.jpg "day11_Transpirenaica")
 
 
-
-
-###   Day 14 - El Masnou - Sitges:
+###   Day 12 - Encamp - Ordino:
 <p align="justify">aaa </p>
 
-![day14_bikeGreTen](/assets/img/BikeGrenobleTenerife/day14.jpg "day14_bikeGreTen")
-
-
-###   Day 15 - Sitges - Cambrils:
-<p align="justify">aaa </p>
-
-
-![day15_bikeGreTen](/assets/img/BikeGrenobleTenerife/day15.jpg "day15_bikeGreTen")
-
-
-
-
-###   Day 16 - Cambrils - Les Cases d’Alcanar:
-<p align="justify">aaa </p>
-
-![day16_bikeGreTen](/assets/img/BikeGrenobleTenerife/day16.jpg "day16_bikeGreTen")
+![day12_Transpirenaica](/assets/img/Transpirenaica/day12.jpg "day12_Transpirenaica")
 
 
 
@@ -126,11 +91,46 @@ title: Bikepacking from Grenoble to Tenerife
 
 
 
-###   Day 17 - Les Cases d’Alcanar - La Mata de Morella:
+###   Day 13 - Ordino - Refugi Comapedrosa:
 <p align="justify">aaa </p>
 
 
-![day17_bikeGreTen](/assets/img/BikeGrenobleTenerife/day17.jpg "day17_bikeGreTen")
+![day13_Transpirenaica](/assets/img/Transpirenaica/day13.jpg "day13_Transpirenaica")
+
+
+
+
+###   Day 14 - Refugi Comapedrosa - Àreu:
+<p align="justify">aaa </p>
+
+![day14_Transpirenaica](/assets/img/Transpirenaica/day14.jpg "day14_Transpirenaica")
+
+
+###   Day 15 - Àreu - Tavascan:
+<p align="justify">aaa </p>
+
+
+![day15_Transpirenaica](/assets/img/Transpirenaica/day15.jpg "day15_Transpirenaica")
+
+
+
+
+###   Day 16 - Tavascan - Borda d'en Jan (Estaon):
+<p align="justify">aaa </p>
+
+![day16_Transpirenaica](/assets/img/Transpirenaica/day16.jpg "day16_Transpirenaica")
+
+
+
+
+
+
+
+###   Day 17 - Borda d'en Jan (Estaon) - Espot:
+<p align="justify">aaa </p>
+
+
+![day17_Transpirenaica](/assets/img/Transpirenaica/day17.jpg "day17_Transpirenaica")
 
 
 
@@ -146,4 +146,4 @@ title: Bikepacking from Grenoble to Tenerife
 
 
 
-![day27_bikeGreTen](/assets/img/BikeGrenobleTenerife/day27.jpg "day27_bikeGreTen")
+![day27_Transpirenaica](/assets/img/Transpirenaica/day27.jpg "day27_Transpirenaica") -->
