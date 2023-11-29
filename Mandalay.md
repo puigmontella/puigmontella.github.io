@@ -9,29 +9,50 @@ title: Building our dreamed van
 
 
 
-### Placing windows and skyroof.
+### Installing skylight and windows
 
-<p align="justify"> One of the first steps when buidling a van is to install the windows. That was pretty scary because one of the first steops is cutting your own vehicle and you don't want anything to go wrong. I watch hundreds of YouTube tutorials on how to install a skyroof. The moment arrived and I used a jag saw? to remove a square piece of roof. The installation was pretty straightforeward but the weird shapes of the roof forced us to install the skyroof in the opposite direction it is supposed to be.  
+<p align="justify">
+When you start converting a van, one of the initial steps is to install the window. That feels very scary  because you're essentially cutting a hole into your own vehicle, you don't want anything to go wrong. I watched tons of YouTube tutorials  on how to install a skylight. The  day finally came, despite feeling extremely annxious and stressed, I went for it and drilled a few holes in the roof, then I used a jigsaw to chop out a square chunk of metal.  Althought the metal sheet was relatively easy to cut, I was feeling the pressure to avoid any possible mistake. No turning back... I followed all those advice and tutorials and the cutting and installation turned out to be a easier than expected. After removing the metal part, we treated the cut with some paint to prevent rust in the future. Then came the most exciting part, we  attached the skylight and added some sealant to avoid any leaking. I'd say that, overall, the installation was pretty straightforward, although the quirky shapes of the roof made us install the skylight in the opposite direction of how it's typically done.
  </p>
 
 
- <p align="justify"> The installation of the windows on the backdoors happened much later. Actually, we placed them almost at the end of the conversion and I could feel my confidence was much higher at the moment of making a hole in our van.
+ ![hole_1](/assets/img/Mandalay/hole_1.jpg "hole_1")
+
+
+
+ <p align="justify">
+
+ We tackled the backdoor windows way later in the van conversion process. Actually, we placed them almost at the end of the conversion. By then, making a hole in our van felt like a walk in the park. We opted for two rounded window, one for each back door.  We followed the same procedure as the skylight. Before making the second cut we realized one of the windows was missing the CE mark, which is essential for approval in tech inspections. After a few days of back-and-forth with the company, they finally sent us a new window, all stamped up and ready to roll. Despite the rounded shape, getting that U-shaped rubber piece around the window and the gluing process was done in just a few hours.
   </p>
 
 
-![hole_1](/assets/img/Mandalay/hole_1.jpg "hole_1")
+
 
 ![hole_2](/assets/img/Mandalay/hole_2.jpg "hole_2")
 
 
 
-### Isolating the van and placing the floor
+### Insulating the van and flooring
+
 <p align="justify">
-Isolating the van was probably the most boring and most demanding task of the conversion. I took me a whole week to attach the isolation on the walls due to complex shapes of our van. I realized that the beams, joints and the overall shape of the van was pretty complex compared to most of the vans people convert which usualy have a square cross section. Time passed by and finally the isolation was completed. Then, we placed wooden elements and plywood tables to even the floor. Finally, PVC elemens? were set on the floor.
+Before diving into the insulation,  the van needed to be cleaned thoroughly. I got down to business, tackling the rusty spots with some scrubbing and a fresh coat of paint. We were all set to take on the insulation,  which was, probably the most boring and  demanding task of the conversion. Insulation in a van is needed to remain warm in cold nights and survive in a pleasant temperature in warm enviroments.  The best way to do it is to add some thermal insulation to reduce the heat loss. We went for  a material called Kaiflex which is an insulation material made of  rubber that can be cut easily with scissors or a sharp blade. This material does not absorb moisture reducing the  risk of corrosion. Despite these perks, it took me a whole week to get that insulation material in place. The material comes in a big roll that I cut and sticked to the walls, floor and ceiling. Sounds simple, right? Well, not quite. The beams, joints, and the whole weird shape of the van made it much harder. Unlike most vans people convert, ours didn't have a typical square cross-section, making it a quite tricky. But, after what felt like forever, I finally got that insulation in place!
+
  </p>
 
 
+
+
+
 ![isolation](/assets/img/Mandalay/isolation.jpg "isolation")
+
+
+<p align="justify">
+The next step consisted in setting up  a base for the floor. First, we glued long studs on the van floor. With this technique we could place a horizontal subfloor board on the top and screw it to the wooden studs instead of drilling and screwing into the van chassis. Plus, some of the wood be anchored to these studs. After we got all the studs in place, it was time  created some cardboard templates   to map the shape of the van floor. Then, these templates were used to cut the correct shape of the plywood used as subfloor. It was not an easy task to cut the plywood boards as they come in enormous boards of 2.4 by 1.2 meters ... but managed and we got 'em screwed onto the studs, finally giving us a nice, even surface.
+
+ Among the different flooring  possible in van builds we decdied to use vinyl click planks.They're super easy to groove together with a tongue-and-groove joint. The result looked great, however, this type of flooring is pretty heavy. I don't think we made a mistake using this flooring but,  looking back,  I would redisgn the floor in a smarter way because there were parts of the floor that remained hidden/unused (such as the floor under the kitchen cabinets) that could've helped save on some extra weight. Live and learn, right?
+ </p>
+
+
 
 
 ![floor](/assets/img/Mandalay/floor.jpg "floor")
@@ -40,12 +61,18 @@ Isolating the van was probably the most boring and most demanding task of the co
 
 ### Framing the van and installing furniture
  <p align="justify">
-Wood was placed, again, the curvy shape of our walls and ceiling was driving me crazy. Lots of planks and wooden elements had to be adjusted to fit nicely and optimize all the space. If we ever convert another van I will make sure it comes with a square cross section.
+
+ Before adding any piece of furniture and  the final touch of wood on the walls and ceiling, we started framing the van.  Framing's all about making sure those walls and ceiling are rock solid and ready to hold up the panels. The wooden studs/planks used to frame the van were attached to van screwing them right onto the metal ribs of the van with self-tapping screws. Then, we proceeded to attach the tongue and groove panels onto the wooden structure using bolts. We opted for wooden  tongue and groove panels. We chose pine woode for that cozy, inviting vibe, and... because it looks awesome!. At first glance, panneling seemed like a breeze, but the curvy walls and ceiling  drove me crazy. Getting all those planks and bits of wood to fit just right and make the most of every centimeter was quite hard. Don't get me wrong, I adore our van, but if we ever convert another van I will make sure it comes with a square cross section.
   </p>
 
 
 ![furniture_1](/assets/img/Mandalay/furniture_1.jpg "furniture_1")
 
+
+<p align="justify">
+
+aa
+ </p>
 ![furniture_2](/assets/img/Mandalay/furniture_2.jpg "furniture_2")
 
 ### Bed
