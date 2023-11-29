@@ -42,6 +42,14 @@ Tsai, B., Mathieu, A., Montellà, E. P., Hsu, T. J., & Chauchat, J. (2022). **An
 
 [![breaching3D](https://res.cloudinary.com/marcomontalbano/image/upload/v1700913576/video_to_markdown/images/youtube--RntLKNUhWPI-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=RntLKNUhWPI "breaching3D")
 
+
+
+
+Montellà,  E. P., Chauchat, J., Bonamy, C., Weij, D., Keetels, G., & Hsu, T. (2023). **Numerical investigation of mode failures in submerged granular columns.** _Flow_, 3, E28. doi:10.1017/flo.2023.23
+
+
+
+
 ### Fluid-Sediment-Structure interactions
 <p align="justify"> Fluid-sediment-structure interactions are of great interest in environmental and industrial applications. The motion of solid objects immersed in fluid-sediment systems have a strong influence on the flow patterns of the fluid phase and morphology of the granular phase.  In order to gain insight into this complex coupling  I am currently working on the implementation of the several techniques and methodologies that allow moving objects in the two-phase model SedFoam. </p>
 
@@ -78,7 +86,7 @@ Tsai, B., Mathieu, A., Montellà, E. P., Hsu, T. J., & Chauchat, J. (2022). **An
 
 
 
-Chareyre, B., Yuan, C., Montella, E. P., & Salager, S. (2017). **Toward multiscale modelings of grain-fluid systems.** _In EPJ Web of Conferences_ (Vol. 140, p. 09027). EDP Sciences.
+Chareyre, B., Yuan, C., Montellà, E. P., & Salager, S. (2017). **Toward multiscale modelings of grain-fluid systems.** _In EPJ Web of Conferences_ (Vol. 140, p. 09027). EDP Sciences.
 
 Montellà, E. P., Chareyre, B., Salager, S., & Gens, A. (2018). **Micromechanical study of multiphase flow based on the lattice Boltzmann method.** _In 2nd YADE Workshop: Discrete-based modeling of multi-scale coupled problems. Booklet of abstracts._
 
