@@ -4,9 +4,7 @@ title: GR11 - Pyrenees trail
 ###subtitle: Why you'd want to go on a date with me
 ---
 
-<p align="justify"> I finished my PhD and I had some time left before I started my first podtdoc. This time between jobs was the perfect timing to fulfill one of my dreams: cross the Pyrenees from coast to coast. Unfortunately I only had time to do half of the trail, nonetheless, the experience was worth it and I am grateful to have lived such an amazing adventure.
-ChatGPT
-
+<p align="justify">
 Back in the summer of 2019, right after finishing my PhD and before diving into my first postdoc I had some spare time. That gap was the golden window to chase down one of my lifetime dreams: trekking across the Pyrenees, coast to coast.  Unfortunately, due to time constraints, I had to stop the trail when I was halfway. Nonetheless, the experience was worth it and I am very grateful for every bit of that wild and epic adventure.
 </p> For those seeking more detailed info, GPS tracks and full path everything is available  [here](https://www.komoot.com/collection/2440416/-grenoble-el-masnou-tenerife) .
 
