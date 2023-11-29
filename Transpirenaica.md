@@ -136,19 +136,3 @@ Back in the summer of 2019, right after finishing my PhD and before diving into 
 
 
 ![day17_Transpirenaica](/assets/img/Transpirenaica/day17.jpg "day17_Transpirenaica")
-
-
-
-
-
-
-
-###   Day 18 - La Mata de Morella - Albentosa:
-<p align="justify">aaa </p>
-
-
-
-
-
-
-![day27_Transpirenaica](/assets/img/Transpirenaica/day27.jpg "day27_Transpirenaica")
