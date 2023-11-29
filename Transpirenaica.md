@@ -1,10 +1,14 @@
 ---
 layout: page
-title: Bikepacking from Grenoble to Tenerife
+title: GR11 - Pyrenees trail
 ###subtitle: Why you'd want to go on a date with me
 ---
 
-<p align="justify">  In the late summer of 2023 I decided to move to Tenerife with my partner. I have lived in Grenoble for the last 8 years and I thought that the best way to move to Tenerife was to embark on a journey of 2400km by bicycle. This trip gifted me countless memories and adventure and I tried to capture some of them in this website. </p> For those seeking more detailed info, GPS tracks and full path everything is available  [here](https://www.komoot.com/collection/2440416/-grenoble-el-masnou-tenerife) .
+<p align="justify"> I finished my PhD and I had some time left before I started my first podtdoc. This time between jobs was the perfect timing to fulfill one of my dreams: cross the Pyrenees from coast to coast. Unfortunately I only had time to do half of the trail, nonetheless, the experience was worth it and I am grateful to have lived such an amazing adventure.
+ChatGPT
+
+Back in the summer of 2019, right after finishing my PhD and before diving into my first postdoc I had some spare time. That gap was the golden window to chase down one of my lifetime dreams: trekking across the Pyrenees, coast to coast.  Unfortunately, due to time constraints, I had to stop the trail when I was halfway. Nonetheless, the experience was worth it and I am very grateful for every bit of that wild and epic adventure.
+</p> For those seeking more detailed info, GPS tracks and full path everything is available  [here](https://www.komoot.com/collection/2440416/-grenoble-el-masnou-tenerife) .
 
 ### Day 1 - Llançà - Sant Quirze de Colera:
 
@@ -53,7 +57,7 @@ title: Bikepacking from Grenoble to Tenerife
 
 ![day7_Transpirenaica](/assets/img/Transpirenaica/day7.jpg "day7_Transpirenaica")
 
-<!--
+
 
 ###   Day 8 - Camprodon - Refugi d'Ulldeterg:
 <p align="justify">aaa </p>
@@ -147,4 +151,4 @@ title: Bikepacking from Grenoble to Tenerife
 
 
 
-![day27_Transpirenaica](/assets/img/Transpirenaica/day27.jpg "day27_Transpirenaica") -->
+![day27_Transpirenaica](/assets/img/Transpirenaica/day27.jpg "day27_Transpirenaica")
