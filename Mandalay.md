@@ -62,7 +62,7 @@ The next step consisted in setting up  a base for the floor. First, we glued lon
 ### Framing the van and installing furniture
  <p align="justify">
 
- Before adding any piece of furniture and  the final touch of wood on the walls and ceiling, we started framing the van.  Framing's all about making sure those walls and ceiling are rock solid and ready to hold up the panels. The wooden studs/planks used to frame the van were attached to van screwing them right onto the metal ribs of the van with self-tapping screws. Then, we proceeded to attach the tongue and groove panels onto the wooden structure using bolts. We opted for wooden  tongue and groove panels. We chose pine woode for that cozy, inviting vibe, and... because it looks awesome!. At first glance, panneling seemed like a breeze, but the curvy walls and ceiling  drove me crazy. Getting all those planks and bits of wood to fit just right and make the most of every centimeter was quite hard. Don't get me wrong, I adore our van, but if we ever convert another van I will make sure it comes with a square cross section.
+ Before adding any piece of furniture and  the final touch of wood on the walls and ceiling, we started framing the van.  Framing's all about making sure those walls and ceiling are rock solid and ready to hold up the panels. The wooden studs/planks used to frame the van were attached to van screwing them right onto the metal ribs of the van with self-tapping screws. Then, we proceeded to attach the tongue and groove panels onto the wooden structure using bolts. We opted for wooden  tongue and groove panels. We chose pine wooden for that cozy, inviting vibe, and... because it looks awesome!. At first glance, paneling seemed like a breeze, but the curvy walls and ceiling  drove me crazy. Getting all those planks and bits of wood to fit just right and make the most of every centimeter was quite hard. Don't get me wrong, I adore our van, but if we ever convert another van I will make sure it comes with a square cross section.
   </p>
 
 
@@ -71,7 +71,7 @@ The next step consisted in setting up  a base for the floor. First, we glued lon
 
 <p align="justify">
 
-aa
+After embellishing the interior walls and ceiling, the next step was to build cabinets and wardrobes to store our clothes.  Making the lower cabinet wasn't too tough, and it helped us hide the metal structure around the wheel. However, the upper cabinet was a complete different story. The van walls and ceiling are full of curved surfaces , so crafting those cabinets to fit precisely was quite a challenge. There were many trials and errors, but in the end, we were very happy with the result.
  </p>
 ![furniture_2](/assets/img/Mandalay/furniture_2.jpg "furniture_2")
 
@@ -85,13 +85,17 @@ aa
 
 
 ### Kitchen area
-<p align="justify">
-This part was the most fun one. We felt creative and we also had the experience of the previous months to tailor a kitchen that would fit our needs. We divided the kitchen counter in three areas, one for the fridge and external battery storage, one for the water tanks and one for food/kitchen tools. We opted for using both drawers and cupboards. I was in charge of the design and wood cutting whereas my partner was taking care of the polishing and paint. We assembled everything and anchored the big piece of furniture at the chassis of the van. We also placed a beautiful black sink and decided to go fancy and use tiles for the kitchen wall.  The installation of the water system was pretty simple:
+<p align="justify">This part was the real game-changer and probably the most fun to put together. We felt creative and  we also had the experience of the previous months to tailor a kitchen that would fit our needs. We planned a big counter divided into three areas under the kitchen top. One section houses the fridge and external battery storage, another for the water tanks and system, and the last for storing our food, dishes, pans, and pots. We decided on a mix of drawers and cupboards for storage.</p>
+
+
+![kitchen_1](/assets/img/Mandalay/kitchen_1.jpg "kitchen_1")
+
+<p align="justify">I tackled the design and wood cutting while my partner took charge of the polishing and painting. The design was simple, built as a rectangular structure from wooden studs. Then, we used plywood for the cabinet doors and compartments, and added three drawers. These were the first drawers I had  ever made from scratch, and though there's always room for improvement, I was very satisfied with how they turned out. Finally, we put everything together and secured this huge piece of furniture to the van's chassis. We also placed a beautiful black sink and got a bit fancy by using tiles for the kitchen wall. As for the water system, it's pretty straightforward: water gets pumped from the tank and stored in an accumulator to provide the right water flow when we turn on the faucet.
+
 </p>
 
 
 
-![kitchen_1](/assets/img/Mandalay/kitchen_1.jpg "kitchen_1")
 
 ![kitchen_2](/assets/img/Mandalay/kitchen_2.jpg "kitchen_2")
 
