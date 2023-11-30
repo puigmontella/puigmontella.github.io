@@ -11,9 +11,24 @@ title: Working in an indigenous community in northern Argentina
 
 
 
+###   Iguopeigenda:
 
 
-<!-- ![final_2](/assets/img/asia/vietnam/final_2.jpg "final_2")
+![comunitat](/assets/img/Argentina/comunitat.jpg "comunitat")
 
 
- -->
+
+![comunitat2](/assets/img/Argentina/comunitat_2.jpg "comunitat_2")
+
+
+###  Jujuy and Salta:
+![Jujuy](/assets/img/Argentina/jujuy.jpg "jujuy")
+
+
+
+![salar](/assets/img/Argentina/salar.jpg "salar")
+
+
+
+###   Buenos Aires:
+![BuenosAires](/assets/img/Argentina/BuenosAires.jpg "BuenosAires")
