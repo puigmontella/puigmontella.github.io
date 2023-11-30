@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Hiking the Pyrenees trail GR11
-subtitle: From the Mediterranean to the highest peaks
-cover-img: /assets/img/path_rgentina.jpg
+title: Working in an indigenous community in northern Argentina
+#subtitle: From the Mediterranean to the highest peaks
+cover-img: /assets/img/path_argentina.jpg
 thumbnail-img: /assets/img/thumb_argentina.jpg
 #tags: [bikepacking, traveling]
 ---
