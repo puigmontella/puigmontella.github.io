@@ -77,8 +77,10 @@ After embellishing the interior walls and ceiling, the next step was to build ca
 
 ### Bed
 <p align="justify">
-
+There are plenty of bed option out there in the internet on how to build a bed. Unfortunately, none of them quite fit the small space we had in our van. So, we had to get creative! We started by building a sturdy frame using pine legs. Then, we added slats on top with enough space for the extension part to slide out. This allows turning the bench into a bed. To make sure this transition was smooth, we used a long hinge. Otherwise, the slats of the extension part would fall into the gap between the fixed ones. Finally, a couple of boards with removable leg were made to complete the bed. It takes a few minutes to put the bed together, but we haven't found a better solution.
 </p>
+
+
 
 
 ![bed](/assets/img/Mandalay/bed.jpg "bed")
@@ -90,8 +92,7 @@ After embellishing the interior walls and ceiling, the next step was to build ca
 
 ![kitchen_1](/assets/img/Mandalay/kitchen_1.jpg "kitchen_1")
 
-<p align="justify">I tackled the design and wood cutting while my partner took charge of the polishing and painting. The design was simple, built as a rectangular structure from wooden studs. Then, we used plywood for the cabinet doors and compartments, and added three drawers. These were the first drawers I had  ever made from scratch, and though there's always room for improvement, I was very satisfied with how they turned out. Finally, we put everything together and secured this huge piece of furniture to the van's chassis. We also placed a beautiful black sink and got a bit fancy by using tiles for the kitchen wall. As for the water system, it's pretty straightforward: water gets pumped from the tank and stored in an accumulator to provide the right water flow when we turn on the faucet.
-
+<p align="justify">I tackled the design and wood cutting while my partner took charge of the polishing and painting. The design was simple, built as a rectangular structure from wooden studs. Then, we used plywood for the cabinet doors and compartments, and added three drawers. These were the first drawers I had  ever made from scratch, and though there's always room for improvement, I was very satisfied with how they turned out. Finally, we put everything together and secured this huge piece of furniture to the van's chassis. As for the water system, it's pretty straightforward: water gets pumped from the tank and stored in an accumulator to provide the right water flow when we turn on the faucet.
 </p>
 
 
@@ -99,16 +100,20 @@ After embellishing the interior walls and ceiling, the next step was to build ca
 
 ![kitchen_2](/assets/img/Mandalay/kitchen_2.jpg "kitchen_2")
 
+<p align="justify">We also placed a beautiful black sink and got a bit fancy by using tiles for the kitchen wall. Then, we framed the window of the kitchen wall and add several pieces of furniture to optimize the space left in the upper part of the kitchen. It was tricky to get the most from such a small and curvy place but I think we did a great job!  </p>
+
 
 ![kitchen_3](/assets/img/Mandalay/kitchen_3.jpg "kitchen_3")
 
 
 ### Final result
  <p align="justify">
-After wireing all the electronics and polish the last details
+After wiring all the electronics and install the light bulbs, polish the last details, adding a table on the lateral side for outside meals and get our hands on the backdoors that we decotrated with siome more wood and two costumized bookshelves the van was ready to go.
   </p>
 
 
 ![final_1](/assets/img/Mandalay/final_1.jpg "final_1")
 
+
+We place the mattress and filled the van up with food, culterly and clotehs and we hit the road for our first adventure with our new camperized van, **Mandalay**.
 ![final_2](/assets/img/Mandalay/final_2.jpg "final_2")
