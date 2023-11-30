@@ -17,6 +17,9 @@ title: Working in an indigenous community in northern Argentina
 ![comunitat](/assets/img/Argentina/comunitat.jpg "comunitat")
 
 
+![comunitat1](/assets/img/Argentina/comunitat_1.jpg "comunitat_1")
+
+
 
 ![comunitat2](/assets/img/Argentina/comunitat_2.jpg "comunitat_2")
 
