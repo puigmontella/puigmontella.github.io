@@ -98,21 +98,24 @@ The path winds its way upward once more, leading us to Talaixa, crossing several
 <p align="justify">
 
 The stage begins in the town of Queralbs, characterized by its Pyrenean charm. The path gently ascends amid fields and grazing lands. We pass by a stream and the Font de l'Home Mort. The track begins to go down and we quickly arrive at the town of Planoles. From there the path continues through a grassy valley near a busy road. We cross Dorria, the highest town in Catalonia and continue through a clear area with few trees. Further ahead we pass through the Coll de la Creu de Maians and Raso de la Basseta which are over 2000 meters. This is one of the longest stages and our legs are crying out to stop. Luckily, I enjoy the fabulous views at all times. There is only the last descent left, a long path between pines and fir trees takes us to Puigscerda where we will spend a few days to rest.
-
  </p>
 
 
 ![day10_Transpirenaica](/assets/img/Transpirenaica/day10.jpg "day10_Transpirenaica")
 
 ###   Day 11 - Puigcerdà - Andorra la Vella:
-<p align="justify">aaa </p>
+<p align="justify">   
+
+
+We're in for our longest, most uphill stage. Bid farewell to the vast Cerdanya valley as we embark on a rapid ascent along a winding path, heading toward Estany Sec and the Malniu shelter.  We cross several path on high altitude  between rugged peaks and treeless slopes.  We keep climbing up through rocky terrain until  Portella d'Engorgs, a perfect lunch spot offering breathtaking views. We go down and up again,  passing  scattered pines and a few lakes. Once we traverse into Andorra, Estany de L'Illa fades from view, and we begin a steady descend during a few kilometers. We run out of water during the downhill stretch but a couple of hikers generously gave us some, just enough to carry us through until we reach Andorra la Vella.  </p>
 
 
 ![day11_Transpirenaica](/assets/img/Transpirenaica/day11.jpg "day11_Transpirenaica")
 
 
 ###   Day 12 - Encamp - Ordino:
-<p align="justify">aaa </p>
+<p align="justify">
+The day kicks off with a challenging climb, weaving through a pine forest, leading us gradually to the Coll de Ordino. We pause for a meal lon the top and descend along a broad path that sporadically intersects with a road. Traversing close to Ordino, we ascend once more through a shady forest. There we search for a suitable tent spot amidst the uneven terrain and spend the night.  </p>
 
 ![day12_Transpirenaica](/assets/img/Transpirenaica/day12.jpg "day12_Transpirenaica")
 
@@ -123,7 +126,8 @@ The stage begins in the town of Queralbs, characterized by its Pyrenean charm. T
 
 
 ###   Day 13 - Ordino - Refugi Comapedrosa:
-<p align="justify">aaa </p>
+<p align="justify">    
+The day dawns with stunning vistas across the Valira del Nord valley. This stage, despite not being very long, crosses many rocky high mountain areas and our heavy backpacks slows us down. Pushing forward, we eventually arrive at the town of Arinsal, located in a narrow valley. The spectacular landscape that surrounds us reminds us that we are amidst the Valls del Comapedrosa park. We climb a fairly demanding path until we reach the Comapedrosa shelter where they let us set up the tent next to the Estany de les Truites. </p>
 
 
 ![day13_Transpirenaica](/assets/img/Transpirenaica/day13.jpg "day13_Transpirenaica")
@@ -132,13 +136,17 @@ The stage begins in the town of Queralbs, characterized by its Pyrenean charm. T
 
 
 ###   Day 14 - Refugi Comapedrosa - Àreu:
-<p align="justify">aaa </p>
+<p align="justify">
+Another fantastic stage at the top of the Pyrenees despite the demanding elevation gain in fornt of us. A scenic rocky path leaves behind the beautiful views of the Comapedrosa valley before we tackle the Port de Baiau. Leaving Andorra in our wake, we meander between lakes and ponds. The descent is quite technical and there is no clear path, we go down jumping on large boulders, eventually giving way to lush green plains. Gradually descending through wide valleys, we're flanked by the towering rocky walls of Roca Entravessada, La Rouge, Vallpeguera peaks, their grandeur accompanying us for  many kilometers. We traverse black pine forests and cattle areas. We finally reached a paved track. We are exhausted and there are only a few kilometers left to reach Àreu, where a campsite awaits, offering some rest after an long journey through the Pyrenean marvels.
+
+ </p>
 
 ![day14_Transpirenaica](/assets/img/Transpirenaica/day14.jpg "day14_Transpirenaica")
 
 
 ###   Day 15 - Àreu - Tavascan:
-<p align="justify">aaa </p>
+<p align="justify"> This stage takes place in one of the most remote areas of Catalonia. We take a wide track that takes us through abandoned shepherds' houses.  The climb persists until we hit Coll de Tudela, where we pause for a meal, soaking in the awe-inspiring views of Pica d'Estats, Catalonia's highest peak. Starting our descent, we switch  between wide tracks and narrow trails continuously, passing through sparsely wooded areas. We encounter the towns of Boldís Sobirà and Boldís Jussà, seemingly desert by permanent inhabitants. Following a flat path, we cross a steep ravine. Then, we  descend once more until we reach the reservoir and the quiet town of Tavascan. After stocking up on supplies, we go on another kilometer to seek out a cozy spot to place the tent.
+  </p>
 
 
 ![day15_Transpirenaica](/assets/img/Transpirenaica/day15.jpg "day15_Transpirenaica")
@@ -147,7 +155,9 @@ The stage begins in the town of Queralbs, characterized by its Pyrenean charm. T
 
 
 ###   Day 16 - Tavascan - Borda d'en Jan (Estaon):
-<p align="justify">aaa </p>
+<p align="justify">
+We continue one more day in this land of solitude, trekking without encountering a soul along the way.  Our morning begins on a trail leading to Aineto's charming cobblestone streets. We continue at a steady pace along a path surrounded by trees and bushes that give us shade for a few minutes. But soon, the trail winds up a steep  slope, the climb is stretching endlessly without a tree in sight. Luckily we finally arrive to the Coll del Jou where we rested for a while, had lunch and took a nap. The descent unfolds gently, tracing a path  along a stream that passes between abandoned houses until we reach Estaon. We are still feeling  strong so we decided to climb a few more kilometers to spend the night in a field with some catthe. The cattlcows are initially pretty far but they are approaching by the hour, and at night they surrounded the tent.
+  </p>
 
 ![day16_Transpirenaica](/assets/img/Transpirenaica/day16.jpg "day16_Transpirenaica")
 
@@ -158,7 +168,11 @@ The stage begins in the town of Queralbs, characterized by its Pyrenean charm. T
 
 
 ###   Day 17 - Borda d'en Jan (Estaon) - Espot:
-<p align="justify">aaa </p>
+
+
+<p align="justify"> Last day of this adventure, the sky looking moody, and we have got personal constraints that forces us to end this journey. We wake up surrounded by cows. We share breakfast in their company before hitting the trail for our final day's trek.  Climbing through a pine-filled forest, we push till we hit Coll de Lo Caubo. We go down a steep rocky slope snaking a narrow path, and ventually, reaching the town of La Guingueta d'Àneu and the reservoir of la Torrassa. A perfectstop for a coffee and rest for  while before tackling the last kilometers. We resume our hike and head west passing by the charming stone houses of Estaís decorated with plenty of red and pink flowers. We go on and we finally reach Espot where our journey stops.  Onward we go until we finally reach Espot, marking the end of our journey. Maybe someday I'll pick up where I left off and make it all the way to the Cantabrian Sea. Nevertheless, these days spent immersed in nature, soaking in the splendor of the Pyrenees, have been an incredible experience.
+
+ </p>
 
 
 ![day17_Transpirenaica](/assets/img/Transpirenaica/day17.jpg "day17_Transpirenaica")
