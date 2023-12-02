@@ -60,9 +60,8 @@ The next step consisted in setting up  a base for the floor. First, we glued lo
 
 
 ### Framing the van and installing furniture
- <p align="justify">
-
- Before adding any piece of furniture and  the final touch of wood on the walls and ceiling, we started framing the van.  Framing's all about making sure those walls and ceiling are rock solid and ready to hold up the panels. The wooden studs/planks used to frame the van were attached to the van screwing them right onto the metal ribs of the van with self-tapping screws. Then, we proceeded to attach the tongue and groove panels onto the wooden structure using bolts. We opted for wooden  tongue and groove panels. We chose pine wooden for that cozy, inviting vibe, and... because it looks awesome!. At first glance, paneling seemed like a breeze, but the curvy walls and ceiling  drove me crazy. Getting all those planks and bits of wood to fit just right and make the most of every centimeter was quite hard. Don't get me wrong, I adore our van, but if we ever convert another van I will make sure it comes with a square cross section.
+<p align="justify">
+Before adding any piece of furniture and  the final touch of wood on the walls and ceiling, we started framing the van.  Framing's all about making sure those walls and ceiling are rock solid and ready to hold up the panels. The wooden studs/planks used to frame the van were attached to the van screwing them right onto the metal ribs of the van with self-tapping screws. Then, we proceeded to attach the tongue and groove panels onto the wooden structure using bolts. We opted for wooden  tongue and groove panels. We chose pine wooden for that cozy, inviting vibe, and... because it looks awesome!. At first glance, paneling seemed like a breeze, but the curvy walls and ceiling  drove me crazy. Getting all those planks and bits of wood to fit just right and make the most of every centimeter was quite hard. Don't get me wrong, I adore our van, but if we ever convert another van I will make sure it comes with a square cross section.
  </p>
 
 
@@ -107,9 +106,9 @@ There are plenty of bed options out there on the internet on how to build a bed.
 
 
 ### Final result
- <p align="justify">
+<p align="justify">
 After wiring all the electronics and install the light bulbs, polish the last details, adding a table on the lateral side for outside meals and get our hands on the backdoors that we decorated with some more wood and two customized bookshelves the van was ready to go.
-  </p>
+</p>
 
 
 ![final_1](/assets/img/Mandalay/final_1.jpg "final_1")
