@@ -5,7 +5,7 @@ title: Building our dreamed van
 ---
 
 <p align="justify">  In late 2019 my partner and I went for a bold decision and decided to buy a secondhand van. The new member of the family was a white Ford Transit that had been used for commercial shipping. I love designing things from scratch and I had some basic knowledge on woodworking but zero experience on a van conversion. My partner did not have any experience either. This blog entry is not a "How to build a van" because there are many other sites and  tutorials that can show it in detail and done it in a more professional way. Instead, I want to share our experience of building a van from scratch, the problems we faced and the lessons we learned.
- </p>
+</p>
 
 
 
@@ -13,16 +13,16 @@ title: Building our dreamed van
 
 <p align="justify">
 When you start converting a van, one of the initial steps is to install the windows. That feels very scary  because you're essentially cutting a hole into your own vehicle, you don't want anything to go wrong. I watched tons of YouTube tutorials  on how to install a skylight. The  day finally came, despite feeling extremely annxious and stressed, I went for it and drilled a few holes in the roof, then I used a jigsaw to chop out a square chunk of metal.  Although the metal sheet was relatively easy to cut, I was feeling the pressure to avoid any possible mistake. No turning back... I followed all those advices and tutorials and the cutting and installation turned out to be easier than expected. After removing the metal part, we treated the cut with some paint to prevent rust in the future. Then came the most exciting part, we  attached the skylight and added some sealant to avoid any leaking. I'd say that, overall, the installation was pretty straightforward, although the quirky shapes of the roof made us install the skylight in the opposite direction of how it's typically done.
- </p>
+</p>
 
 
  ![hole_1](/assets/img/Mandalay/hole_1.jpg "hole_1")
 
 
 
- <p align="justify">
+<p align="justify">
 We tackled the backdoor windows way later in the van conversion process. Actually, we placed them almost at the end of the conversion. By then, making a hole in our van felt like a walk in the park. We opted for two rounded windows, one for each back door.  We followed the same procedure as the skylight. Before making the second cut we realized one of the windows was missing the CE mark, which is essential to pass the tech inspections. After a few days of back-and-forth with the company, they finally sent us a new window, all stamped up and ready to roll. Despite the rounded shape, getting the rubber piece around the window and the gluing process was done in just a few hours.
-  </p>
+ </p>
 
 
 
@@ -63,7 +63,7 @@ The next step consisted in setting up  a base for the floor. First, we glued lo
  <p align="justify">
 
  Before adding any piece of furniture and  the final touch of wood on the walls and ceiling, we started framing the van.  Framing's all about making sure those walls and ceiling are rock solid and ready to hold up the panels. The wooden studs/planks used to frame the van were attached to the van screwing them right onto the metal ribs of the van with self-tapping screws. Then, we proceeded to attach the tongue and groove panels onto the wooden structure using bolts. We opted for wooden  tongue and groove panels. We chose pine wooden for that cozy, inviting vibe, and... because it looks awesome!. At first glance, paneling seemed like a breeze, but the curvy walls and ceiling  drove me crazy. Getting all those planks and bits of wood to fit just right and make the most of every centimeter was quite hard. Don't get me wrong, I adore our van, but if we ever convert another van I will make sure it comes with a square cross section.
-  </p>
+ </p>
 
 
 ![furniture_1](/assets/img/Mandalay/furniture_1.jpg "furniture_1")
