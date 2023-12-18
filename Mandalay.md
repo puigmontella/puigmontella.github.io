@@ -61,7 +61,7 @@ The next step consisted in setting up a base for the floor. First, we glued long
 
 ### Framing the van and installing furniture
 <p align="justify">
-Before adding any piece of furniture and the final touch of wood on the walls and ceiling, we started framing the van. Framing's all about making sure those walls and ceiling are rock solid and ready to hold up the panels. The wooden studs/planks used to frame the van were attached to the van screwing them right onto the metal ribs of the van with self-tapping screws. Then, we proceeded to attach the tongue and groove panels onto the wooden structure using bolts. We opted for wooden tongue and groove panels. We chose pine wooden for that cozy, inviting vibe, and... because it looks awesome!. At first glance, paneling seemed like a breeze, but the curvy walls and ceiling drove me crazy. Getting all those planks and bits of wood to fit just right and make the most of every centimeter was quite hard. Don't get me wrong, I adore our van, but if we ever convert another van I will make sure it comes with a square cross section.
+Before adding any piece of furniture and the final touch of wood on the walls and ceiling, we started framing the van. Framing's all about making sure those walls and ceiling are rock solid and ready to hold up the panels. The wooden studs/planks used to frame the van were attached to the van screwing them right onto the metal ribs of the van with self-tapping screws. Then, we proceeded to attach the tongue and groove panels onto the wooden structure using bolts. We opted for wooden tongue and groove panels. We chose pine wood for that cozy, inviting vibe, and... because it looks awesome! At first glance, paneling seemed like a breeze, but the curvy walls and ceiling drove me crazy. Getting all those planks and bits of wood to fit just right and make the most of every centimeter was quite hard. Don't get me wrong, I adore our van, but if we ever convert another van I will make sure it comes with a square cross section.
  </p>
 
 
@@ -70,7 +70,7 @@ Before adding any piece of furniture and the final touch of wood on the walls an
 
 <p align="justify">
 
-After embellishing the interior walls and ceiling, the next step was to build cabinets and wardrobes to store our clothes. Making the lower cabinet wasn't too tough, and it helped us hide the metal structure around the wheel. However, the upper cabinet was a completely different story. The van walls and ceiling are full of curved surfaces , so crafting those cabinets to fit precisely was quite a challenge. There were many trials and errors, but in the end, we were very happy with the result.
+After embellishing the interior walls and ceiling, the next step was to build cabinets and wardrobes to store our clothes. Making the lower cabinet wasn't too tough, and it helped us hide the metal structure around the wheel. However, the upper cabinet was a completely different story. The van walls and ceiling are full of curved surfaces, so crafting those cabinets to fit precisely was quite a challenge. There were many trials and errors, but in the end, we were very happy with the result.
  </p>
 ![furniture_2](/assets/img/Mandalay/furniture_2.jpg "furniture_2")
 
@@ -86,7 +86,7 @@ There are plenty of bed options out there on the internet on how to build a bed.
 
 
 ### Kitchen area
-<p align="justify">This part was the real game-changer and probably the most fun to put together. We felt creative and we also had the experience of the previous months to tailor a kitchen that would fit our needs. We planned a big counter divided into three areas under the kitchen top. One section houses the fridge and external battery storage, another for the water tanks and system, and the last for storing our food, dishes, pans, and pots. We decided on a mix of drawers and cupboards for storage.</p>
+<p align="justify">This part was the real game-changer and probably the most fun to put together. We felt creative and we also had the experience of the previous months to tailor a kitchen that would fit our needs. We planned a big counter divided into three areas under the kitchen top. One section houses the fridge and external battery storage, another for the water tanks and system, and the last for storing our food, dishes, pans, and pots. We decided to use a mix of drawers and cupboards for storage.</p>
 
 
 ![kitchen_1](/assets/img/Mandalay/kitchen_1.jpg "kitchen_1")
@@ -107,12 +107,12 @@ There are plenty of bed options out there on the internet on how to build a bed.
 
 ### Final result
 <p align="justify">
-After wiring all the electronics and install the light bulbs, polish the last details, adding a table on the lateral side for outside meals and get our hands on the backdoors that we decorated with some more wood and two customized bookshelves the van was ready to go.
+After wiring all the electronics and install the light bulbs, polish the last details, adding a table on the lateral side for outside meals and get our hands on the backdoors that we decorated with some more wood and two customized bookshelves, the van was ready to go.
 </p>
 
 
 ![final_1](/assets/img/Mandalay/final_1.jpg "final_1")
 
 
-We place the mattress and filled the van up with food, cutlery and clothes and we hit the road for our first adventure with our new camperized van, **Mandalay**.
+We place the mattress and filled up the van with food, cutlery and clothes and we hit the road for our first adventure with our new camperized van, **Mandalay**.
 ![final_2](/assets/img/Mandalay/final_2.jpg "final_2")
