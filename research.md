@@ -1,15 +1,7 @@
 ---
 layout: page
-title: Working in an indigenous community in northern Argentina
-###subtitle: Why you'd want to go on a date with me
----
-
-<p align="justify">---
-layout: page
 title: My research
 ---
-
-
 
 ### Dilatancy and pore pressure feedback in granular materials: Avalanches {#local-research}
 
