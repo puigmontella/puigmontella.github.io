@@ -313,7 +313,7 @@ exclude:
   - README.md
   - screenshot.png
   - docs/
-
+  - vendor
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
@@ -321,4 +321,4 @@ plugins:
 
 languages: ["en", "cat"]
 
-exclude_from_localizations: ["javascript", "images", "css", "scripts", "favicon.ico"]
+exclude_from_localizations: ["javascript", "images", "css", "scripts", "favicon.ico","vendor"]
