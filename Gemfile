@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
 ruby RUBY_VERSION
-gem "jekyll", "~> 3.8.5"
+gem "jekyll"
 gem "ffi", "< 1.17.0"
 
 group :jekyll_plugins do
