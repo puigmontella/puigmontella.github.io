@@ -1,0 +1,18 @@
+CHANGELOG
+---------
+- **2023-03-31**: 0.2.3
+  - `README.md` update CI shield links
+- **2023-03-27**: 0.2.2
+  - `README.md` doc fix
+- **2023-02-14**: 0.2.1
+  - Add option for longer retry delay
+- **2016-12-28**: 0.2.0
+  - Refactor to support external use via `RetryUtil`
+- **2016-12-28**: 0.1.0
+  - Add custom retry time support
+  - Add custom status code support
+  - Add Codacy analysis
+- **2016-11-09**: 0.0.2
+  - Update license in `.gemspec`
+- **2016-11-09**: 0.0.1
+  - Initial release
