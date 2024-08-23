@@ -1,0 +1,650 @@
+<!DOCTYPE html>
+<html lang="en">
+<!-- Beautiful Jekyll 6.0.1 | Copyright Dean Attali 2023 -->
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  
+
+  
+
+  <title>Eduard Puig Montellà website</title>
+
+  
+  <meta name="author" content="Eduard Puig Montellà">
+  
+
+  <meta name="description" content="{% for lang in site.languages %} {% unless site.lang == lang %} {% t langs.{{ lang }} %} {% assign next = forloop.index | plus: 1 %} {% if forloop.last != true and site.languages[forloop.index] != site.lang or site.languages[forloop.index] == site.lang and next &amp;bull; {% endif %} {% endunless %} {%...">
+
+  
+
+  
+
+  
+  <link rel="alternate" type="application/rss+xml" title="Eduard Puig Montellà website" href="/feed.xml">
+  
+
+  
+
+  
+
+  
+
+  
+
+
+  
+    
+      
+  <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+
+
+    
+      
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/css/all.min.css">
+
+
+    
+      
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic">
+
+
+    
+      
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800">
+
+
+    
+  
+
+  
+    
+      <link rel="stylesheet" href="/assets/css/bootstrap-social.css">
+    
+      <link rel="stylesheet" href="/assets/css/beautifuljekyll.css">
+    
+  
+
+  
+
+  
+  
+  
+
+  
+
+  
+  <meta property="og:site_name" content="Eduard Puig Montellà website">
+  <meta property="og:title" content="Eduard Puig Montellà website">
+  <meta property="og:description" content="{% for lang in site.languages %} {% unless site.lang == lang %} {% t langs.{{ lang }} %} {% assign next = forloop.index | plus: 1 %} {% if forloop.last != true and site.languages[forloop.index] != site.lang or site.languages[forloop.index] == site.lang and next &amp;bull; {% endif %} {% endunless %} {%...">
+
+  
+  <meta property="og:image" content="/assets/img/avatar-icon.png">
+  
+
+  
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="/transpirenaica/">
+  <link rel="canonical" href="/transpirenaica/">
+  
+
+  
+  <meta name="twitter:card" content="summary">
+  
+  <meta name="twitter:site" content="@">
+  <meta name="twitter:creator" content="@">
+
+  <meta property="twitter:title" content="Eduard Puig Montellà website">
+  <meta property="twitter:description" content="{% for lang in site.languages %} {% unless site.lang == lang %} {% t langs.{{ lang }} %} {% assign next = forloop.index | plus: 1 %} {% if forloop.last != true and site.languages[forloop.index] != site.lang or site.languages[forloop.index] == site.lang and next &amp;bull; {% endif %} {% endunless %} {%...">
+
+  
+  <meta name="twitter:image" content="/assets/img/avatar-icon.png">
+  
+
+  
+
+
+  
+
+  
+
+</head>
+
+
+<body>
+
+  
+
+
+  <nav class="navbar navbar-expand-xl navbar-light fixed-top navbar-custom top-nav-regular"><a class="navbar-brand" href="">Eduard Puig Montellà website</a><button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#main-navbar" aria-controls="main-navbar" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="main-navbar">
+    <ul class="navbar-nav ml-auto">
+          <li class="nav-item">
+            <a class="nav-link" href="/aboutme">About Me</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="/research">My research</a>
+          </li>
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">My adventures</a>
+            <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
+                  <a class="dropdown-item" href="/GrenobleTenerife">Biking from Grenoble to Tenerife</a>
+                  <a class="dropdown-item" href="/Mandalay">Buidling our dreamed van</a>
+                  <a class="dropdown-item" href="/transpirenaica">Crossing the GR11 Pyrenees Trail</a>
+                  <a class="dropdown-item" href="/argentina">A few months in Argentina</a>
+                  <a class="dropdown-item" href="/asia">Backpacking in Asia (unfinished)</a>
+            </div>
+          </li>
+        
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Versió en català</a>
+            <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
+                  <a class="dropdown-item" href="/cat/aboutme">Sobre mi</a>
+                  <a class="dropdown-item" href="/cat/research">Recerca</a>
+                  <a class="dropdown-item" href="/cat/adventures">Les meves aventures</a>
+            </div>
+          </li>
+        
+        <li class="nav-item">
+          <a class="nav-link" id="nav-search-link" href="#" title="Search">
+            <span id="nav-search-icon" class="fa fa-search"></span>
+            <span id="nav-search-text">Search</span>
+          </a>
+        </li></ul>
+  </div>
+
+  
+
+  
+    <div class="avatar-container">
+      <div class="avatar-img-border">
+        <a href="">
+          <img alt="Navigation bar avatar" class="avatar-img" src="/assets/img/avatar-icon.png" />
+        </a>
+      </div>
+    </div>
+  
+
+</nav>
+
+
+
+<div id="beautifuljekyll-search-overlay">
+
+  <div id="nav-search-exit" title="Exit search">✕</div>
+  <input type="text" id="nav-search-input" placeholder="Search">
+  <ul id="search-results-container"></ul>
+  
+  <script src="https://unpkg.com/simple-jekyll-search@latest/dest/simple-jekyll-search.min.js"></script>
+  <script>
+    var searchjson = '[ \
+       \
+        { \
+          "title"    : "Bikepacking from Grenoble to Tenerife", \
+          "desc"     : "Bikepacking from Grenoble to Tenerife", \
+          "category" : "", \
+          "url"      : "/cat/GreTen/", \
+          "date"     : "November 26, 2023" \
+        }, \
+       \
+        { \
+          "title"    : "A glimpse of my research", \
+          "desc"     : "A glimpse of my research", \
+          "category" : "", \
+          "url"      : "/cat/A-glimpse-research/", \
+          "date"     : "October 28, 2022" \
+        }, \
+       \
+        { \
+          "title"    : "Building our dreamed van", \
+          "desc"     : "Building our dreamed van", \
+          "category" : "", \
+          "url"      : "/cat/mandalay/", \
+          "date"     : "August 26, 2021" \
+        }, \
+       \
+        { \
+          "title"    : "Hiking the Pyrenees trail GR11", \
+          "desc"     : "Hiking the Pyrenees trail GR11", \
+          "category" : "", \
+          "url"      : "/cat/TransPirenaica/", \
+          "date"     : "January  9, 2020" \
+        }, \
+       \
+        { \
+          "title"    : "Working in an indigenous community in northern Argentina", \
+          "desc"     : "Working in an indigenous community in northern Argentina", \
+          "category" : "", \
+          "url"      : "/cat/Argentina/", \
+          "date"     : "February 12, 2015" \
+        }, \
+       \
+       \
+        { \
+          "title"    : "Bikepacking from Grenoble to Tenerife", \
+          "desc"     : "Bikepacking from Grenoble to Tenerife", \
+          "category" : "page", \
+          "url"      : "/cat/GrenobleTenerife/", \
+          "date"     : "January 1, 1970" \
+        }, \
+       \
+        { \
+          "title"    : "Building our dreamed van", \
+          "desc"     : "Building our dreamed van", \
+          "category" : "page", \
+          "url"      : "/cat/Mandalay/", \
+          "date"     : "January 1, 1970" \
+        }, \
+       \
+        { \
+          "title"    : "GR11 - Pyrenees trail", \
+          "desc"     : "GR11 - Pyrenees trail", \
+          "category" : "page", \
+          "url"      : "/cat/Transpirenaica/", \
+          "date"     : "January 1, 1970" \
+        }, \
+       \
+        { \
+          "title"    : "", \
+          "desc"     : "", \
+          "category" : "page", \
+          "url"      : "/cat/aboutme/", \
+          "date"     : "January 1, 1970" \
+        }, \
+       \
+        { \
+          "title"    : "About me", \
+          "desc"     : "About me", \
+          "category" : "page", \
+          "url"      : "/cat/aboutme/", \
+          "date"     : "January 1, 1970" \
+        }, \
+       \
+        { \
+          "title"    : "", \
+          "desc"     : "", \
+          "category" : "page", \
+          "url"      : "/cat/adventures/", \
+          "date"     : "January 1, 1970" \
+        }, \
+       \
+        { \
+          "title"    : "", \
+          "desc"     : "", \
+          "category" : "page", \
+          "url"      : "/cat/argentina/", \
+          "date"     : "January 1, 1970" \
+        }, \
+       \
+        { \
+          "title"    : "Working in an indigenous community in northern Argentina", \
+          "desc"     : "Working in an indigenous community in northern Argentina", \
+          "category" : "page", \
+          "url"      : "/cat/argentina/", \
+          "date"     : "January 1, 1970" \
+        }, \
+       \
+        { \
+          "title"    : "", \
+          "desc"     : "", \
+          "category" : "page", \
+          "url"      : "/cat/asia/", \
+          "date"     : "January 1, 1970" \
+        }, \
+       \
+        { \
+          "title"    : "Backpacking in south Asia  (unfinished)", \
+          "desc"     : "Backpacking in south Asia  (unfinished)", \
+          "category" : "page", \
+          "url"      : "/cat/asia/", \
+          "date"     : "January 1, 1970" \
+        }, \
+       \
+        { \
+          "title"    : "", \
+          "desc"     : "", \
+          "category" : "page", \
+          "url"      : "/cat/GrenobleTenerife/", \
+          "date"     : "January 1, 1970" \
+        }, \
+       \
+        { \
+          "title"    : "Grenocleta website", \
+          "desc"     : "Grenocleta website", \
+          "category" : "page", \
+          "url"      : "/cat/", \
+          "date"     : "January 1, 1970" \
+        }, \
+       \
+        { \
+          "title"    : "", \
+          "desc"     : "", \
+          "category" : "page", \
+          "url"      : "/cat/Mandalay/", \
+          "date"     : "January 1, 1970" \
+        }, \
+       \
+        { \
+          "title"    : "", \
+          "desc"     : "", \
+          "category" : "page", \
+          "url"      : "/cat/research/", \
+          "date"     : "January 1, 1970" \
+        }, \
+       \
+        { \
+          "title"    : "My research", \
+          "desc"     : "My research", \
+          "category" : "page", \
+          "url"      : "/cat/research/", \
+          "date"     : "January 1, 1970" \
+        }, \
+       \
+        { \
+          "title"    : "Tag Index", \
+          "desc"     : "Tag Index", \
+          "category" : "page", \
+          "url"      : "/cat/tags/", \
+          "date"     : "January 1, 1970" \
+        }, \
+       \
+        { \
+          "title"    : "", \
+          "desc"     : "", \
+          "category" : "page", \
+          "url"      : "/cat/transpirenaica/", \
+          "date"     : "January 1, 1970" \
+        } \
+       \
+    ]';
+    searchjson = JSON.parse(searchjson);
+
+    var sjs = SimpleJekyllSearch({
+      searchInput: document.getElementById('nav-search-input'),
+      resultsContainer: document.getElementById('search-results-container'),
+      json: searchjson
+    });
+  </script>
+</div>
+
+
+
+
+
+  <!-- TODO this file has become a mess, refactor it -->
+
+
+
+
+<div class="intro-header"></div>
+
+
+
+<div class=" container-md " role="main">
+  <div class="row">
+    <div class=" col-xl-8 offset-xl-2 col-lg-10 offset-lg-1 ">
+      
+
+      <div class="content" id="home">
+  <!-- <div id="sidebar-button">
+    <img src="/images/sidebar-button.png">
+  </div> -->
+  <div id="post-info">
+    <!-- <div id="cover-photo-container">
+      <img id="cover-photo" src="/images/">
+    </div> -->
+    <!-- <div id="info-container">
+      <h1 id="title"></h1>
+    </div> -->
+  </div>
+
+  <div class="post">
+    <div align="right">
+      <!-- Adds links to other languages on the post -->
+      
+        
+          <a href="/transpirenaica/" >English</a>
+
+          
+
+          
+
+        
+      
+        
+      
+    </div>
+
+    <!-- ---
+layout: page
+title: GR11 - Pyrenees trail
+###subtitle: Why you'd want to go on a date with me
+--- -->
+
+<h1 style="text-align: center;">Transpirenaica - GR11</h1>
+
+<p align="justify">
+A l'estiu del 2019, just després d'acabar el meu doctorat i abans de submergir-me en el meu primer postdoctorat, vaig tenir temps lliure. Aquell buit era la finestra daurada per perseguir un dels meus somnis de tota la vida: caminar pels Pirineus, de costa a costa. Malauradament, per limitacions de temps, vaig haver d'aturar la pista quan estava a mig camí. Tot i això, l'experiència va valdre la pena i estic molt agraït per cada part d'aquesta aventura salvatge i èpica.
+</p>
+<p>Per a aquells que busquen informació més detallada, rutes GPS i ruta completa, tot està disponible <a href="https://www.komoot.com/collection/2477895/-gr11-pyrenees-trail">aquí</a> .</p>
+
+<h3 id="dia-1---llançà---sant-quirze-de-colera">Dia 1 - Llançà - Sant Quirze de Colera:</h3>
+
+<p align="justify">Comencem el dia al migdia ja que arribar al punt de partida amb transport públic no era una tasca fàcil. Durant la setmana, la Marta, una de les meves millors amigues, farà senderisme amb mi, junts ens submergirem en les primeres ascensions del Pirineu. El punt de partida és Llançà i aviat deixem les carreteres asfaltades i les construccions de formigó per pujar per pistes de sorra que ens porten al Coll de les Portes. Després baixem per arribar a l'ermita de Sant Silvestre. La pista puja al coll de la Serra i tornem a baixar per passar pel poble de Vilamaniscle i un mosaic de vinyes precioses. El camí ample continua passant per la vegetació mediterrània fins arribar al monestir de Sant Quirze de Colera on decidim fer nit. </p>
+
+<p><img src="/../../assets/img/Transpirenaica/day1.jpg" alt="day1_Transpireanica" title="day1_Transpireanica" /></p>
+
+<h3 id="dia-2---sant-quirze-de-colera---voltants-requessens">Dia 2 - Sant Quirze de Colera - Voltants Requessens:</h3>
+
+<p align="justify">Aquesta etapa comença amb un gust mediterrani. Seguim pujant passant per zones de matolls i amb poca ombra. Després hem de seguir un tram de carretera força avorrit. Agafem un camí que ressegueix una riera i seguim pujant fins arribar a un bosc frondós ple d'alzines. Des d'allà encara podem distingir a l'horitzó el mar Mediterrani que ens envia una brisa càlida just abans del capvespre. Allà, prop del castell de Recassens, vam passar la nit sota un frondós arbre. </p>
+
+<p><img src="/../../assets/img/Transpirenaica/day2.jpg" alt="day2_Transpirenaica" title="day2_Transpirenaica" /></p>
+
+<h3 id="dia-3---requessens---la-jonquera">Dia 3 - Requessens - La Jonquera:</h3>
+<p align="justify">
+
+
+Quan comença l'alba, els núvols comencen a formar-se al cel. Deixem enrere el bosc i pugem entre matolls. De blau ens topem amb les restes d'un avió que es va estavellar al bosc. A mesura que avancem, flors grogues floreixen per tot arreu adornant el nostre camí. No obstant això, la bellesa i la diversió s'esvaeixen ràpidament a mesura que la pluja comença a abocar-nos i esmorteix el nostre ànim. Passem per una zona boscosa devastada pel foc. Gairebé al cim, prop del coll de l'Auleda, una pluja torrencial ens deixa xops. Baixem a la Jonquera on busquem un hotel per assecar-nos la roba i passar una nit càlida. </p>
+
+<p><img src="/../../assets/img/Transpirenaica/day3.jpg" alt="day3_Transpirenaica" title="day3_Transpirenaica" /></p>
+
+<h3 id="dia-4---la-jonquera---maçanet-de-cabrenys">Dia 4 - La Jonquera - Maçanet de Cabrenys:</h3>
+
+<p align="justify">Ens llevem tard i sortim de la Jonquera cap a les 10 h. Ja no hi ha pluja però el cel encara està ennuvolat. Travessem el nucli urbà de la població i travessem la carretera principal que uneix Espanya i França. Després comencem a pujar per un bosc ple d'alzines sureres. Els murmuris d'incendis passats són evidents a partir de restes disperses. Arribem al poble de La Vajol on parem a dinar i trobem un bar per prendre un cafè calent. És hora d'anar-hi, agafem un camí estret i costerut sota un bosc frondós que baixa fins a les rodalies de Maçanet de Cabrenys. Vam muntar la tenda allà i vaig dormir malament perquè el vent era fort i els arbres estaven grinyolant tota la nit.
+</p>
+<p><img src="/../../assets/img/Transpirenaica/day4.jpg" alt="day4_Transpirenaica" title="day4_Transpirenaica" /></p>
+
+<h3 id="dia-5---maçanet-de-cabrenys---refugi-del-bassegoda-can-galan">Dia 5 - Maçanet de Cabrenys - Refugi del Bassegoda Can Galan:</h3>
+
+<p align="justify">
+Un matí amb ràfegues allunya els núvols i emergeixen indicis de cel clar. Esmorzem a Maçanet de Cabrenys, el poble està ple de gent al carrer per les eleccions de Catalunya. Pujant per un camí ample, un desnivell constant ens condueix a les ruïnes de Trilla, on fem una parada per dinar. El descens transcorre per pistes i camins enmig d'una pineda i terrenys acabats de netejar, a causa d'una recent desforestació. Finalment, arribem a Albanyà, on fem una pausa per prendre un cafè i proveir-nos de provisions abans d'emprendre l'última pujada. Un camí sinuós i estret ens guia fins al refugi de Bassegoda, on ens aturarem per passar la nit, la nostra primera a l'interior des que va començar aquesta caminada. </p>
+
+<p><img src="/../../assets/img/Transpirenaica/day5.jpg" alt="day5_Transpirenaica" title="day5_Transpirenaica" /></p>
+
+<h3 id="dia-6---refugi-del-bassegoda-can-galan---beget">Dia 6 - Refugi del Bassegoda Can Galan - Beget:</h3>
+<p align="justify">
+Avui entrem en una de les etapes que tant esperava: una immersió als boscos de l'Alta Garrotxa. Comencem a pujar per un camí costerut que ens guia fins al coll de Bassegoda. Des d'allà tenim unes vistes espectaculars dels cims més imponents de la zona. Baixem per un camí llarg, però deliciosament atractiu, entre penya-segats verds i rocosos. Després arribem a l'ermita de Sant Aniol envoltada d'unes ruïnes. </p>
+
+<p><img src="/../../assets/img/Transpirenaica/day6.jpg" alt="day6_Transpirenaica" title="day6_Transpirenaica" /></p>
+
+<p align="justify">
+El camí torna a ser ascendent i ens porta fins a Talaixa, travessant diverses rieres i passant per barraques i masies oblidades. Trekking per un mosaic de camps, s'acosta el capvespre, així que optem per aturar-nos i muntar la tenda.
+</p>
+
+<p><img src="/../../assets/img/Transpirenaica/day6_long.jpg" alt="day6_long_Transpirenaica" title="day6_long_Transpirenaica" /></p>
+
+<h3 id="dia-7---beget---camprodon">Dia 7 - Beget - Camprodon:</h3>
+<p align="justify"> Ens despertem un matí fred i decidim caminar un parell de quilòmetres per arribar a Beget i prendre un esmorzar calent en un acollidor bar. Beget és una ciutat molt bonica però una mica massa turística. Seguim el camí però aviat hem de deixar el GR11 i incorporar-nos a una altra pista perquè avui és l'última etapa amb la Marta, així que hem d'arribar a Camprodon per agafar un autobús cap a Barcelona. El camí transcorre per boscos frondosos i és majoritàriament pla. Tot i així, canviem ràpidament a carreteres, una ruta menys pintoresca però necessària. Tirant endavant, arribem a Camprodon just a temps, agafant l'autobús tal com estava previst, acomiadant-nos d'aquesta etapa de l'aventura amb la Marta. </p>
+
+<p><img src="/../../assets/img/Transpirenaica/day7.jpg" alt="day7_Transpirenaica" title="day7_Transpirenaica" /></p>
+
+<h3 id="dia-8---camprodon---refugi-dulldeter">Dia 8 - Camprodon - Refugi d’Ulldeter:</h3>
+<p align="justify"> Uns dies després, la meva parella i jo pugem a un autobús de tornada a Camprodon, amb ganes de reprendre aquesta aventura. Creuem l'antic pont de Camprondon i comencem a pujar per un llarg camí que passa per uns conreus amb encant. Seguint el suau curs del riu Ter, anem pujant progressivament cap a Setcases. La vegetació verda i exuberant present al matí comença a esvair-se mentre afrontem l'última ascensió. El camí s'enfila, transformant-se en una pujada rocosa. Els arbres són gairebé inexistents quan arribem al refugi d'Ulldeter. Allà fem una mica de te i mirem aquest paisatge accidentat però captivador.
+</p>
+
+<p><img src="/../../assets/img/Transpirenaica/day8.jpg" alt="day8_Transpirenaica" title="day8_Transpirenaica" /></p>
+
+<h3 id="dia-9---refugi-dulldeter---queralbs">Dia 9 - Refugi d’Ulldeter - Queralbs:</h3>
+
+<p align="justify">Despertant-nos amb un dia assolellat, iniciem la nostra aventura ascendint fins arribar al coll de la Marrana amb unes vistes sorprenents. Per fi estem agafant el gust de l'alta muntanya dels Pirineus. Travessem moltes nevades de l'hivern anterior fins a arribar a la majestuosa corona de cims que formen l'Olla de Núria. Caminem per la carena trobant diversos cims emblemàtics com el Noucreus, la Vaca i Noufonts, que ens ofereixen vistes panoràmiques que descobreixen la bellesa dels Pirineus que s'estenen a l'horitzó. Al cim del Noufonts comencem a baixar la vall. Comença com un camí subtil amagat sota la neu i els blocs i, a poc a poc, es converteix en un estret camí de sorra que travessa la verda herba de la vall de Núria.
+</p>
+<p><img src="/../../assets/img/Transpirenaica/day9.jpg" alt="day9_Transpirenaica" title="day9_Transpirenaica" /></p>
+
+<p align="justify">Deixant el santuari de Núria al nostre pas, continuem el nostre camí de baixada. El sender recorre l'estreta vall del riu Freser. Després els forts pendents suaus a mesura que ens acostem a Queralbs, on trobem un altre refugi per passar la nit. </p>
+<p><img src="/../../assets/img/Transpirenaica/day9_long.jpg" alt="day9_long_Transpirenaica" title="day9_long_Transpirenaica" /></p>
+
+<h3 id="dia-10---queralbs---puigcerdà">Dia 10 - Queralbs - Puigcerdà:</h3>
+<p align="justify">
+
+L'etapa comença al poble de Queralbs, caracteritzat pel seu encant pirinenc. El camí puja suaument entre camps i pastures. Passem per una riera i la Font de l'Home Mort. La pista comença a baixar i ràpidament arribem al poble de Planoles. Des d'allà el camí continua per una vall herbosa prop d'una carretera molt transitada. Travessem Dorria, la població més alta de Catalunya i seguim per una zona clara amb pocs arbres. Més endavant passem pel Coll de la Creu de Maians i el Raso de la Basseta que superen els 2000 metres. Aquesta és una de les etapes més llargues i les nostres cames criden a aturar-se. Per sort, gaudeixo de les fabuloses vistes en tot moment. Només queda l'última baixada, un llarg camí entre pins i avets ens porta a Puigcerdà on passarem uns dies per descansar.
+</p>
+
+<p><img src="/../../assets/img/Transpirenaica/day10.jpg" alt="day10_Transpirenaica" title="day10_Transpirenaica" /></p>
+
+<h3 id="dia-11---puigcerdà---andorra-la-vella">Dia 11 - Puigcerdà - Andorra la Vella:</h3>
+<p align="justify">
+
+
+Estem a la nostra etapa més llarga i més pujada. Acomiadem la vasta vall de la Cerdanya mentre emprenem una ràpida ascensió per un camí sinuós, en direcció a l'Estany Sec i el refugi de Malniu. Creuem diversos camins a gran alçada entre cims accidentats i vessants sense arbres. Seguim pujant per terreny rocós fins a Portella d'Engorgs, un lloc perfecte per dinar amb vistes impressionants. Baixem i tornem a pujar, passant per pins escampats i alguns llacs. Un cop travessem cap a Andorra, l'estany de L'Illa s'esvaeix de la nostra vista i comencem un descens constant d'uns quants quilòmetres. Ens quedem sense aigua durant el tram de baixada, però un parell d'excursionistes ens van donar generosament, el suficient per portar-nos fins arribar a Andorra la Vella. </p>
+
+<p><img src="/../../assets/img/Transpirenaica/day11.jpg" alt="day11_Transpirenaica" title="day11_Transpirenaica" /></p>
+
+<h3 id="dia-12---encamp---ordino">Dia 12 - Encamp - Ordino:</h3>
+<p align="justify">
+El dia s'inicia amb una pujada desafiant, teixint per una pineda, que ens porta a poc a poc fins al Coll d'Ordino. Fem una pausa per dinar al cim i baixem per un camí ample que es creua esporàdicament amb una carretera. Travessant prop d'Ordino, tornem a ascendir per un bosc ombrívol. Allà busquem un lloc adequat per a tendes de campanya enmig del terreny irregular i passem la nit. </p>
+<p><img src="/../../assets/img/Transpirenaica/day12.jpg" alt="day12_Transpirenaica" title="day12_Transpirenaica" /></p>
+
+<h3 id="dia-13---ordino---refugi-comapedrosa">Dia 13 - Ordino - Refugi Comapedrosa:</h3>
+<p align="justify">
+El dia comença amb unes vistes impressionants a la vall de Valira del Nord. Aquesta etapa, tot i no ser molt llarga, travessa moltes zones rocoses d'alta muntanya i les nostres pesades motxilles ens frenen. Tirant endavant, finalment arribem al poble d'Arinsal, situat en una estreta vall. L'espectacularitat del paisatge que ens envolta ens recorda que ens trobem enmig del parc de les Valls del Comapedrosa. Pugem per un camí força exigent fins arribar al refugi de Comapedrosa on ens van deixar muntar la tenda al costat de l'Estany de les Truites. </p>
+
+<p><img src="/../../assets/img/Transpirenaica/day13.jpg" alt="day13_Transpirenaica" title="day13_Transpirenaica" /></p>
+
+<h3 id="dia-14---refugi-comapedrosa---àreu">Dia 14 - Refugi Comapedrosa - Àreu:</h3>
+<p align="justify">
+Una altra etapa fantàstica al cim dels Pirineus malgrat l'exigent desnivell que tenim davant nostre. Un pintoresc camí pedregós deixa enrere les boniques vistes de la vall de Comapedrosa abans d'abordar el Port de Baiau. Sortint d'Andorra al nostre pas, serpentegem entre llacs i estanys. La baixada és força tècnica i no hi ha camí clar, baixem saltant sobre grans blocs, acabant donant pas a planes verdes exuberants. Baixant a poc a poc per amples valls, estem flanquejats per les imponents parets rocoses de la Roca Entravessada, la Rouge, els pics de Vallpeguera, la seva grandesa ens acompanya durant molts quilòmetres. Travessarem boscos de pi negre i zones ramaderes. Finalment arribem a una pista asfaltada. Estem esgotats i falten pocs quilòmetres per arribar a Àreu, on ens espera un càmping que ens ofereix un descans després d'un llarg dia entre les meravelles pirinenques.
+
+</p>
+
+<p><img src="/../../assets/img/Transpirenaica/day14.jpg" alt="day14_Transpirenaica" title="day14_Transpirenaica" /></p>
+
+<h3 id="dia-15---àreu---tavascan">Dia 15 - Àreu - Tavascan:</h3>
+<p align="justify"> Aquesta etapa es desenvolupa en una de les zones més allunyades de Catalunya. Prenem una pista ampla que ens porta per cases de pastors abandonades. La pujada continua fins que arribem al Coll de Tudela, on fem una pausa per dinar, submerint-nos de les impressionants vistes de la Pica d'Estats, el cim més alt de Catalunya. Començant la baixada, canviem contínuament entre pistes amples i senders estrets, passant per zones poc boscoses. Ens trobem amb els pobles de Boldís Sobirà i Boldís Jussà, aparentment abandonats per habitants permanents. Seguint un camí planer, creuem un barranc costerut. Després, baixem un cop més fins arribar a l'embassament i al tranquil poble de Tavascan. Després d'aprovisionar-nos de provisions, fem un altre quilòmetre per buscar un lloc acollidor per col·locar la tenda.
+</p>
+
+<p><img src="/../../assets/img/Transpirenaica/day15.jpg" alt="day15_Transpirenaica" title="day15_Transpirenaica" /></p>
+
+<h3 id="dia-16---tavascan---borda-den-jan-estaon">Dia 16 - Tavascan - Borda d’en Jan (Estaon):</h3>
+<p align="justify">
+Continuem un dia més en aquesta terra de solitud, caminant sense trobar ànima pel camí. El nostre matí comença per un sender que condueix als encantadors carrers empedrats d'Aineto. Continuem a ritme constant per un camí envoltat d'arbres i matolls que ens donen ombra durant uns minuts. Però aviat, la pista s'enfila per un fort pendent, la pujada s'estén sense parar sense cap arbre a la vista. Per sort arribem per fi al coll del Jou on hem descansat una estona, hem dinat i hem fet una migdiada. La baixada es desenvolupa suaument, traçant un camí per una riera que passa entre cases abandonades fins arribar a Estaon. Encara ens sentim forts així que decidim pujar uns quants quilòmetres més per passar la nit en un camp amb una mica de bestiar. Les vaques inicialment estan força lluny però s'acosten a hores i hores, i a la nit envolten la tenda.
+</p>
+
+<p><img src="/../../assets/img/Transpirenaica/day16.jpg" alt="day16_Transpirenaica" title="day16_Transpirenaica" /></p>
+
+<h3 id="dia-17---borda-den-jan-estaon---espot">Dia 17 - Borda d’en Jan (Estaon) - Espot:</h3>
+
+<p align="justify"> Últim dia d'aquesta aventura, el cel sembla malhumorat i tenim limitacions personals que ens obliguen a acabar aquest viatge. Ens despertem envoltats de vaques. Compartim l'esmorzar amb la seva companyia abans d'anar a la ruta per a la nostra excursió del darrer dia. Pujant per un bosc de pins, empenyem fins arribar al Coll de Lo Caubo. Baixem per un fort pendent rocós serpentejant per un camí estret, i finalment, arribant al poble de la Guingueta d'Àneu i al pantà de la Torrassa. Un lloc perfecte per prendre un cafè i descansar una estona abans d'abordar els últims quilòmetres. Reprenem la caminada i ens dirigim cap a l'oest passant per les encantadores cases de pedra d'Estaís decorades amb abundants flors vermelles i rosades. Seguim endavant fins a arribar a Espot, que marca el final del nostre viatge. Potser algun dia reprendré on ho vaig deixar i arribaré fins al mar Cantàbric. No obstant això, aquests dies passats immersos en la natura, submergits en l'esplendor dels Pirineus, han estat una experiència increïble.
+
+</p>
+
+<p><img src="/../../assets/img/Transpirenaica/day17.jpg" alt="day17_Transpirenaica" title="day17_Transpirenaica" /></p>
+
+  </div>
+</div>
+
+
+      
+
+      
+
+    </div>
+  </div>
+</div>
+
+
+  <footer>
+  <div class="container-md beautiful-jekyll-footer">
+    <div class="row">
+      <div class="col-xl-8 offset-xl-2 col-lg-10 offset-lg-1">
+      
+<ul class="list-inline text-center footer-links"><li class="list-inline-item">
+    <a href="mailto:eduard.puig.montella@gmail.com" title="Email me">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fas fa-envelope fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">Email me</span>
+   </a>
+  </li><li class="list-inline-item">
+    <a href="https://github.com/puigmontella" title="GitHub">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fab fa-github fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">GitHub</span>
+   </a>
+  </li></ul>
+
+      
+      <p class="copyright text-muted">
+      
+        Eduard Puig Montellà
+        &nbsp;&bull;&nbsp;
+      
+      2024
+
+      
+
+      
+
+      
+
+      </p>
+      
+      </div>
+    </div>
+  </div>
+</footer>
+
+
+  
+  
+    
+  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha256-4+XzXVhsDmqanXGHaHvgh1gMQKX40OUvDEBTu8JcmNs=" crossorigin="anonymous"></script>
+
+
+  
+    
+  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+
+
+  
+    
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+
+
+  
+
+
+
+  
+    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+    
+      <script src="/assets/js/beautifuljekyll.js"></script>
+    
+  
+
+
+
+
+
+
+
+
+
+</body>
+</html>
