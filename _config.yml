@@ -282,7 +282,7 @@ highlighter: rouge
 permalink: /:year-:month-:day-:title/
 paginate: 5
 
-baseurl: ""
+baseurl: ''
 permalink: /:title/
 
 
