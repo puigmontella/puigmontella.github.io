@@ -1,5 +1,5 @@
 current directory: /home/edu/Desktop/Website/puigmontella.github.io/vendor/bundle/ruby/3.0.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
-/usr/bin/ruby3.0 -I /usr/lib/ruby/vendor_ruby -r ./siteconf20240824-10585-7qwb7i.rb extconf.rb
+/usr/bin/ruby3.0 -I /usr/lib/ruby/vendor_ruby -r ./siteconf20240824-12745-1pxk52.rb extconf.rb
 creating Makefile
 
 current directory: /home/edu/Desktop/Website/puigmontella.github.io/vendor/bundle/ruby/3.0.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
@@ -13,4 +13,4 @@ linking shared-object ruby_http_parser.so
 
 current directory: /home/edu/Desktop/Website/puigmontella.github.io/vendor/bundle/ruby/3.0.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
 make DESTDIR\= install
-/usr/bin/install -c -m 0755 ruby_http_parser.so ./.gem.20240824-10585-77cxh9
+/usr/bin/install -c -m 0755 ruby_http_parser.so ./.gem.20240824-12745-6d7ya4

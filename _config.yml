@@ -18,43 +18,23 @@ author: Eduard Puig Montellà
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
-# #
+
 navbar-links:
   About Me: "aboutme"
   My research: "research"
   My adventures:
     - Biking from Grenoble to Tenerife: "GrenobleTenerife"
     - Buidling our dreamed van:   "Mandalay"
-    - Crossing the GR11 Pyrenees Trail:  "transpirenaica"
+    - Crossing the GR11 Pyrenees Trail:  "Transpirenaica"
     - A few months in Argentina:  "argentina"
     - Backpacking in Asia (unfinished):  "asia"
   Versió en català:
     - Sobre mi: "cat/aboutme"
     - Recerca: "cat/research"
     - Les meves aventures:  "cat/adventures"
-        # - Biking from Grenoble to Tenerife: "cat/GrenobleTenerife"
-        # - Buidling our dreamed van:   "cat/Mandalay"
-        # - Crossing the GR11 Pyrenees Trail:  "cat/transpirenaica"
-        # - A few months in Argentina:  "cat/argentina"
-        # - Backpacking in Asia (unfinished):  "cat/asia"
-#
-# navbar_links:
-#   - title: About Me
-#     url: /aboutme/
-#   - title: My research
-#     url: /research/
-#   - title: My adventures
-#     adventures:
-#       - title: Biking from Grenoble to Tenerife
-#         url: /GrenobleTenerife/
-#       - title: Buidling our dreamed van
-#         url: /Mandalay/
-#         adventures2:
-#           - title: CatBuidling our dreamed van
-#             url: /cat/GrenobleTenerife/
-#
-#
-# ################
+#  Author's home: "https://deanattali.com"
+
+################
 # --- Logo --- #
 ################
 
@@ -282,10 +262,6 @@ highlighter: rouge
 permalink: /:year-:month-:day-:title/
 paginate: 5
 
-baseurl: ""
-permalink: /:title/
-
-
 kramdown:
   input: GFM
 
@@ -309,6 +285,8 @@ defaults:
 exclude:
   - CHANGELOG.md
   - CNAME
+  - Gemfile
+  - Gemfile.lock
   - LICENSE
   - README.md
   - screenshot.png
@@ -320,5 +298,3 @@ plugins:
   - jekyll-multiple-languages-plugin
 
 languages: ["en", "cat"]
-
-exclude_from_localizations: ["javascript", "images", "css", "scripts", "favicon.ico"]
