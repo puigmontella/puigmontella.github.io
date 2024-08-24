@@ -13,7 +13,7 @@ title: La meva recerca
 <p align="justify"> La dilatància és una propietat del material que fa referència al canvi de volum observat en materials granulars quan estan sotmesos a deformacions per cisalla. Quan una capa horitzontal dipositada de material granular totalment immers en un líquid s'inclina de sobte per sobre d'un cert angle crític, comença a fluir pel pendent a causa de la gravetat. La dinàmica inicial d'aquestes allaus submarines depèn fortament de la fracció de volum inicial. Si el llit granular està inicialment fluix, és a dir, més fluix que l'estat crític, l'allau s'activa gairebé instantàniament i presenta una forta acceleració, mentre que per a un llit granular inicialment dens, és a dir, més dens que l'estat crític, la mobilitat de l'allau es manté baixa durant algun temps. abans que comenci a fluir amb normalitat. Simultàniament, els llits inicialment solts experimenten contractivitat, per tant, l'espai dels porus es redueix i el líquid dins dels porus s'expulsa. Això es tradueix en pressions de porus positives que milloren el moviment ràpid de l'allau. Al contrari, els llits granulars inicialment densos mostren un comportament dilatador. L'espai dels porus es fa més gran i el líquid s'aspira als porus. En conseqüència, sorgeixen pressions de porus negatives dins del medi que dificulten el moviment del flux granular. El complex comportament d'aquestes allaus es pot explicar, per tant, per una combinació de dilatància granular geomètrica i retroalimentació de pressió de porus sobre el medi granular. </p>
 
 
-![dilatancyAvalanche](/../../assets/img/Research/graphicalAbstract_110.jpg "dilatancyAvalanche")
+![dilatancyAvalanche](/../assets/img/Research/graphicalAbstract_110.jpg "dilatancyAvalanche")
 
 <p align="justify"> El meu treball va consistir a proposar i implementar una formulació de continu en un model numèric de continu tridimensional (SedFoam). L'originalitat del model va ser incorporar la dilatància com a esforç normal elasto-plàstic i no com a modificació del coeficient de fricció. El nostre model va poder predir la velocitat transitòria de les allaus granulars per a una àmplia gamma de fraccions de volum inicials i es va observar la dinàmica correcta quan es van comparar els resultats amb les dades experimentals. </p>
 
@@ -29,9 +29,9 @@ Tsai, B., Mathieu, A., Montellà, E. P., Hsu, T. J., & Chauchat, J. (2022). **An
 
 
 
- ![dilatancyLooseCollapse](/../../assets/img/Research/MapVolumeFraction_Loose_EduRheology.png "dilatancyLooseCollapse")
+ ![dilatancyLooseCollapse](/../assets/img/Research/MapVolumeFraction_Loose_EduRheology.png "dilatancyLooseCollapse")
 
- ![dilatancyDenseCollapse](/../../assets/img/Research/MapVolumeFraction_Dense_EduRheology.png "dilatancyDenseCollapse")
+ ![dilatancyDenseCollapse](/../assets/img/Research/MapVolumeFraction_Dense_EduRheology.png "dilatancyDenseCollapse")
 
 
 <p align="justify">
@@ -88,7 +88,7 @@ Montella, E. P., Bonamy, C., Chauchat, J., & Hsu, T. J. (2024). **Implementing m
 
 
 
-![hybridPHD](/../../assets/img/Research/hybrid.jpg "hybridPHD")
+![hybridPHD](/../assets/img/Research/hybrid.jpg "hybridPHD")
 
 
 
@@ -112,7 +112,7 @@ Montellà, E. P., Yuan, C., Chareyre, B., & Gens Solé, A. (2020). **Modeling mu
 <p align="justify"> La fluidització es refereix als sistemes fluid-sòlids en què el material granular es comporta com un fluid. La fluidització s'utilitza en una gran varietat de processos industrials com ara la transferència de calor, el refinament del petroli, la conversió del carbó i el tractament d'aigua. Un cas concret es refereix a una afluència de fluid molt localitzada, que indueix una heterogeneïtat espacial dins de l'empaquetament dels grans, aquesta situació es coneix com a fluidització localitzada. A mesura que augmenta la velocitat d'injecció de l'afluència, es recuperen tres règims diferents: expansió homogènia del llit, cavitat fluiditzada en la qual comença a desenvolupar-se la fluidització per sobre de la zona d'injecció i, finalment, la xemeneia dels grans fluiditzats quan la zona de fluidització arriba a la superfície lliure. Per estudiar aquest fenomen es va proposar un enfocament analític i un numèric basat en el mètode d'elements discrets i l'acoblament de l'enfocament de volum finit de porus mitjançant el programari YADE.
 </p>
 
-![Localized](/../../assets/img/Research/localized.jpg "Localized")
+![Localized](/../assets/img/Research/localized.jpg "Localized")
 
 Montellà, E. P., Toraldo, M., Chareyre, B., & Sibille, L. (2016). **Localized fluidization in granular materials: Theoretical and numerical study.** _Physical Review E_, 94(5), 052905.
 

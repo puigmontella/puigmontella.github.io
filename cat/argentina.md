@@ -24,7 +24,7 @@ El 2014 vaig tenir l'oportunitat d'anar al nord de l'Argentina per col·laborar 
 
 
 
-![comunitat](../../assets/img/Argentina/comunitat.jpg "comunitat")
+![comunitat](../assets/img/Argentina/comunitat.jpg "comunitat")
 
 
 <p align="justify"> Pel que fa a la part tècnica, vam començar a mapar la posició dels pous actuals i la seva profunditat. Això ens va ajudar a determinar els llocs perfectes per a les latrines per evitar qualsevol contaminació de les aigües subterrànies. Després, vam fer un pressupost detallat dels materials i eines necessaris per a la seva execució, tenint en compte els preus dels productes a la ciutat d'Oran. A continuació, a través d'una decisió en assemblea, vam decidir quines famílies es beneficiarien d'aquesta iniciativa. Finalment vam executar tres sistemes de tractament d'aigua: triant la ubicació ideal, cavant les trinxeres, modelant el terreny, col·locant les canonades, instal·lant fosses sèptiques i llits de grava per filtrar l'aigua dels pous i finalment instal·lant els lavabos i aixecant les parets.</p>
