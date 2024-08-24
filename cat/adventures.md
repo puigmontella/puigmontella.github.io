@@ -7,7 +7,7 @@
 <p align="justify"> A finals de l'estiu del 2023, després de molts anys a Grenoble, vaig posar punt i final a la meva vida prop dels Alps. Vaig empaquetar les coses més imprescindibles a les alforges de la bicicleta i vaig començar un viatge de 2400 quilòmetres. Vaig decidir no agafar el camí fàcil i triar una ruta amb alguns desviaments per donar una última ullada als impressionants Alps, vaig travessar els icònics camps de lavanda de la Provença, vaig pedalar al costat dels vells vaixells del Canal du Midi, vaig travessar els majestuosos Pirineus, em vaig relaxar a la meva ciutat natal prop de Barcelona, ​​vaig discorre sobre dues rodes pel litoral mediterrani, vaig passar per les zones més remotes i despoblades d'Espanya, vaig serpentejar per camins sinuosos entre oliveres i finalment vaig arribar al port de Huelva. Des d'allà, vaig navegar cap a Tenerife, disposat a embarcar-me en un nou capítol de la meva vida. </p> Fes clic [aquí](../GrenobleTenerife) per conèixer tots els detalls del meu viatge.
 
 
-![path_bike_GreTenLong](/assets/img/path_bike_GreTenLong.jpg "path_bike_GreTenLong")
+![path_bike_GreTenLong](../assets/img/path_bike_GreTenLong.jpg "path_bike_GreTenLong")
 
 ---
 
@@ -16,7 +16,7 @@
 
 
 
-![path_mandalay](/assets/img/path_mandalay.jpg "path_mandalay"){: style="display:block; margin-left: auto; margin-right: auto; height="70%" width="70%";"}
+![path_mandalay](../assets/img/path_mandalay.jpg "path_mandalay"){: style="display:block; margin-left: auto; margin-right: auto; height="70%" width="70%";"}
 
 <!-- {: height="50%" width="50%"; style="text-align: center;"} -->
 
