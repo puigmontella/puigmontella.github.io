@@ -28,6 +28,10 @@ navbar-links:
     - Crossing the GR11 Pyrenees Trail:  "Transpirenaica"
     - A few months in Argentina:  "argentina"
     - Backpacking in Asia (unfinished):  "asia"
+  Versió en català:
+    - Sobre mi: "cat/aboutme"
+    - Recerca: "cat/research"
+    - Les meves aventures:  "cat/adventures"
 #  Author's home: "https://deanattali.com"
 
 ################
@@ -291,3 +295,6 @@ exclude:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-multiple-languages-plugin
+
+languages: ["en", "cat"]

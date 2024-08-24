@@ -1,0 +1,28 @@
+global:
+  tagline: English
+  about: About
+  twitter: Twitter
+  github: GitHub
+langs:
+  en: English
+  cat: Català
+pages:
+  argentina: argentina
+  example: example
+  includeexample: The aaaaafollowing text is a Jekyll include liquid tag parameter
+# titles:
+#   pagination: Pagination
+titles:
+  argentina: en/argentina
+
+# 
+# navbar-links:
+#   About Me: "aboutme"
+#   My research: "research"
+#   My adventures:
+#     - Biking from Grenoble to Tenerife: "GrenobleTenerife"
+#     - Buidling our dreamed van:   "Mandalay"
+#     - Crossing the GR11 Pyrenees Trail:  "Transpirenaica"
+#     - A few months in Argentina:  "argentina"
+#     - Backpacking in Asia (unfinished):  "asia"
+#   Versió en català: https://www.rac1.cat/a-la-carta
