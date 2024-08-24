@@ -9,13 +9,13 @@
 
   
 
-  <title>Building our dreamed van</title>
+  <title>Eduard Puig Montellà website</title>
 
   
   <meta name="author" content="Eduard Puig Montellà">
   
 
-  <meta name="description" content="In late 2019 my partner and I went for a bold decision and decided to buy a secondhand van. The new member of the family was a white Ford Transit that had been used for commercial shipping. I love designing things from scratch and I had some basic knowledge on...">
+  <meta name="description" content="{% for lang in site.languages %} {% unless site.lang == lang %} {% t langs.{{ lang }} %} {% assign next = forloop.index | plus: 1 %} {% if forloop.last != true and site.languages[forloop.index] != site.lang or site.languages[forloop.index] == site.lang and next &amp;bull; {% endif %} {% endunless %} {%...">
 
   
 
@@ -76,8 +76,8 @@
 
   
   <meta property="og:site_name" content="Eduard Puig Montellà website">
-  <meta property="og:title" content="Building our dreamed van">
-  <meta property="og:description" content="In late 2019 my partner and I went for a bold decision and decided to buy a secondhand van. The new member of the family was a white Ford Transit that had been used for commercial shipping. I love designing things from scratch and I had some basic knowledge on...">
+  <meta property="og:title" content="Eduard Puig Montellà website">
+  <meta property="og:description" content="{% for lang in site.languages %} {% unless site.lang == lang %} {% t langs.{{ lang }} %} {% assign next = forloop.index | plus: 1 %} {% if forloop.last != true and site.languages[forloop.index] != site.lang or site.languages[forloop.index] == site.lang and next &amp;bull; {% endif %} {% endunless %} {%...">
 
   
   <meta property="og:image" content="/assets/img/avatar-icon.png">
@@ -95,8 +95,8 @@
   <meta name="twitter:site" content="@">
   <meta name="twitter:creator" content="@">
 
-  <meta property="twitter:title" content="Building our dreamed van">
-  <meta property="twitter:description" content="In late 2019 my partner and I went for a bold decision and decided to buy a secondhand van. The new member of the family was a white Ford Transit that had been used for commercial shipping. I love designing things from scratch and I had some basic knowledge on...">
+  <meta property="twitter:title" content="Eduard Puig Montellà website">
+  <meta property="twitter:description" content="{% for lang in site.languages %} {% unless site.lang == lang %} {% t langs.{{ lang }} %} {% assign next = forloop.index | plus: 1 %} {% if forloop.last != true and site.languages[forloop.index] != site.lang or site.languages[forloop.index] == site.lang and next &amp;bull; {% endif %} {% endunless %} {%...">
 
   
   <meta name="twitter:image" content="/assets/img/avatar-icon.png">
@@ -134,9 +134,18 @@
             <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
                   <a class="dropdown-item" href="/GrenobleTenerife">Biking from Grenoble to Tenerife</a>
                   <a class="dropdown-item" href="/Mandalay">Buidling our dreamed van</a>
-                  <a class="dropdown-item" href="/Transpirenaica">Crossing the GR11 Pyrenees Trail</a>
+                  <a class="dropdown-item" href="/transpirenaica">Crossing the GR11 Pyrenees Trail</a>
                   <a class="dropdown-item" href="/argentina">A few months in Argentina</a>
                   <a class="dropdown-item" href="/asia">Backpacking in Asia (unfinished)</a>
+            </div>
+          </li>
+        
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Versió en català</a>
+            <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
+                  <a class="dropdown-item" href="/cat/aboutme">Sobre mi</a>
+                  <a class="dropdown-item" href="/cat/research">Recerca</a>
+                  <a class="dropdown-item" href="/cat/adventures">Les meves aventures</a>
             </div>
           </li>
         
@@ -178,7 +187,7 @@
           "title"    : "Bikepacking from Grenoble to Tenerife", \
           "desc"     : "Bikepacking from Grenoble to Tenerife", \
           "category" : "", \
-          "url"      : "/2023-11-26-GreTen/", \
+          "url"      : "/GreTen/", \
           "date"     : "November 26, 2023" \
         }, \
        \
@@ -186,7 +195,7 @@
           "title"    : "A glimpse of my research", \
           "desc"     : "A glimpse of my research", \
           "category" : "", \
-          "url"      : "/2022-10-28-A-glimpse-research/", \
+          "url"      : "/A-glimpse-research/", \
           "date"     : "October 28, 2022" \
         }, \
        \
@@ -194,7 +203,7 @@
           "title"    : "Building our dreamed van", \
           "desc"     : "Building our dreamed van", \
           "category" : "", \
-          "url"      : "/2021-08-26-mandalay/", \
+          "url"      : "/mandalay/", \
           "date"     : "August 26, 2021" \
         }, \
        \
@@ -202,7 +211,7 @@
           "title"    : "Hiking the Pyrenees trail GR11", \
           "desc"     : "Hiking the Pyrenees trail GR11", \
           "category" : "", \
-          "url"      : "/2020-01-09-TransPirenaica/", \
+          "url"      : "/TransPirenaica/", \
           "date"     : "January  9, 2020" \
         }, \
        \
@@ -210,7 +219,7 @@
           "title"    : "Working in an indigenous community in northern Argentina", \
           "desc"     : "Working in an indigenous community in northern Argentina", \
           "category" : "", \
-          "url"      : "/2015-02-12-Argentina/", \
+          "url"      : "/Argentina/", \
           "date"     : "February 12, 2015" \
         }, \
        \
@@ -240,10 +249,34 @@
         }, \
        \
         { \
+          "title"    : "", \
+          "desc"     : "", \
+          "category" : "page", \
+          "url"      : "/aboutme/", \
+          "date"     : "January 1, 1970" \
+        }, \
+       \
+        { \
           "title"    : "About me", \
           "desc"     : "About me", \
           "category" : "page", \
           "url"      : "/aboutme/", \
+          "date"     : "January 1, 1970" \
+        }, \
+       \
+        { \
+          "title"    : "", \
+          "desc"     : "", \
+          "category" : "page", \
+          "url"      : "/adventures/", \
+          "date"     : "January 1, 1970" \
+        }, \
+       \
+        { \
+          "title"    : "", \
+          "desc"     : "", \
+          "category" : "page", \
+          "url"      : "/argentina/", \
           "date"     : "January 1, 1970" \
         }, \
        \
@@ -256,6 +289,14 @@
         }, \
        \
         { \
+          "title"    : "", \
+          "desc"     : "", \
+          "category" : "page", \
+          "url"      : "/asia/", \
+          "date"     : "January 1, 1970" \
+        }, \
+       \
+        { \
           "title"    : "Backpacking in south Asia  (unfinished)", \
           "desc"     : "Backpacking in south Asia  (unfinished)", \
           "category" : "page", \
@@ -264,10 +305,34 @@
         }, \
        \
         { \
+          "title"    : "", \
+          "desc"     : "", \
+          "category" : "page", \
+          "url"      : "/GrenobleTenerife/", \
+          "date"     : "January 1, 1970" \
+        }, \
+       \
+        { \
           "title"    : "Grenocleta website", \
           "desc"     : "Grenocleta website", \
           "category" : "page", \
           "url"      : "/", \
+          "date"     : "January 1, 1970" \
+        }, \
+       \
+        { \
+          "title"    : "", \
+          "desc"     : "", \
+          "category" : "page", \
+          "url"      : "/Mandalay/", \
+          "date"     : "January 1, 1970" \
+        }, \
+       \
+        { \
+          "title"    : "", \
+          "desc"     : "", \
+          "category" : "page", \
+          "url"      : "/research/", \
           "date"     : "January 1, 1970" \
         }, \
        \
@@ -284,6 +349,14 @@
           "desc"     : "Tag Index", \
           "category" : "page", \
           "url"      : "/tags/", \
+          "date"     : "January 1, 1970" \
+        }, \
+       \
+        { \
+          "title"    : "", \
+          "desc"     : "", \
+          "category" : "page", \
+          "url"      : "/transpirenaica/", \
           "date"     : "January 1, 1970" \
         } \
        \
@@ -307,30 +380,7 @@
 
 
 
-
-
-
-<header class="header-section ">
-
-<div class="intro-header no-img">
-  <div class="container-md">
-    <div class="row">
-      <div class="col-xl-8 offset-xl-2 col-lg-10 offset-lg-1">
-        <div class="page-heading">
-          <h1>Building our dreamed van</h1>
-          
-
-          
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-
-
-
-</header>
-
+<div class="intro-header"></div>
 
 
 
@@ -339,7 +389,44 @@
     <div class=" col-xl-8 offset-xl-2 col-lg-10 offset-lg-1 ">
       
 
-      <p align="justify"> In late 2019 my partner and I went for a bold decision and decided to buy a secondhand van. The new member of the family was a white Ford Transit that had been used for commercial shipping. I love designing things from scratch and I had some basic knowledge on woodworking but zero experience on a van conversion. My partner did not have any experience either. This blog entry is not a "How to build a van" because there are many other sites and tutorials that can show it in detail and done it in a more professional way. Instead, I want to share our experience of building a van from scratch, the problems we faced and the lessons we learned.
+      <div class="content" id="home">
+  <!-- <div id="sidebar-button">
+    <img src="/images/sidebar-button.png">
+  </div> -->
+  <div id="post-info">
+    <!-- <div id="cover-photo-container">
+      <img id="cover-photo" src="/images/">
+    </div> -->
+    <!-- <div id="info-container">
+      <h1 id="title"></h1>
+    </div> -->
+  </div>
+
+  <div class="post">
+    <div align="right">
+      <!-- Adds links to other languages on the post -->
+      
+        
+      
+        
+          <a href="/cat/Mandalay/" >Català</a>
+
+          
+
+          
+
+        
+      
+    </div>
+
+    <!-- ---
+layout: page
+title: Building our dreamed van
+###subtitle: Why you'd want to go on a date with me
+--- -->
+<h1 style="text-align: center;"> Building our dreamed van</h1>
+
+<p align="justify"> In late 2019 my partner and I went for a bold decision and decided to buy a secondhand van. The new member of the family was a white Ford Transit that had been used for commercial shipping. I love designing things from scratch and I had some basic knowledge on woodworking but zero experience on a van conversion. My partner did not have any experience either. This blog entry is not a "How to build a van" because there are many other sites and tutorials that can show it in detail and done it in a more professional way. Instead, I want to share our experience of building a van from scratch, the problems we faced and the lessons we learned.
 </p>
 
 <h3 id="installing-skylight-and-windows">Installing skylight and windows</h3>
@@ -348,13 +435,13 @@
 When you start converting a van, one of the initial steps is to install the windows. That feels very scary because you're essentially cutting a hole into your own vehicle, you don't want anything to go wrong. I watched tons of YouTube tutorials on how to install a skylight. The day finally came, despite feeling extremely annxious and stressed, I went for it and drilled a few holes in the roof, then I used a jigsaw to chop out a square chunk of metal. Although the metal sheet was relatively easy to cut, I was feeling the pressure to avoid any possible mistake. No turning back... I followed all those advices and tutorials and the cutting and installation turned out to be easier than expected. After removing the metal part, we treated the cut with some paint to prevent rust in the future. Then came the most exciting part, we attached the skylight and added some sealant to avoid any leaking. I'd say that, overall, the installation was pretty straightforward, although the quirky shapes of the roof made us install the skylight in the opposite direction of how it's typically done.
 </p>
 
-<p> <img src="/assets/img/Mandalay/hole_1.jpg" alt="hole_1" title="hole_1" /></p>
+<p> <img src="/../../assets/img/Mandalay/hole_1.jpg" alt="hole_1" title="hole_1" /></p>
 
 <p align="justify">
 We tackled the backdoor windows way later in the van conversion process. Actually, we placed them almost at the end of the conversion. By then, making a hole in our van felt like a walk in the park. We opted for two rounded windows, one for each back door. We followed the same procedure as the skylight. Before making the second cut we realized one of the windows was missing the CE mark, which is essential to pass the tech inspections. After a few days of back-and-forth with the company, they finally sent us a new window, all stamped up and ready to roll. Despite the rounded shape, getting the rubber piece around the window and the gluing process was done in just a few hours.
  </p>
 
-<p><img src="/assets/img/Mandalay/hole_2.jpg" alt="hole_2" title="hole_2" /></p>
+<p><img src="/../../assets/img/Mandalay/hole_2.jpg" alt="hole_2" title="hole_2" /></p>
 
 <h3 id="insulating-and-flooring">Insulating and flooring</h3>
 
@@ -363,7 +450,7 @@ Before diving into the insulation, the van needed to be cleaned thoroughly. I go
 
  </p>
 
-<p><img src="/assets/img/Mandalay/isolation.jpg" alt="isolation" title="isolation" /></p>
+<p><img src="/../../assets/img/Mandalay/isolation.jpg" alt="isolation" title="isolation" /></p>
 
 <p align="justify">
 The next step consisted in setting up a base for the floor. First, we glued long studs on the van floor. With this technique we could place a horizontal subfloor board on the top and screw it to the wooden studs instead of drilling and screwing into the van chassis. Plus, some of the wood is anchored to these studs. After we got all the studs in place, it was time to create some cardboard templates to map the shape of the van floor. Then, these templates were used to cut the correct shape of the plywood used as subfloor. It was not an easy task to cut the plywood boards as they come in enormous boards of 2.4 by 1.2 meters ... but we managed and we got 'em screwed onto the studs, giving us a nice even surface.
@@ -372,51 +459,54 @@ The next step consisted in setting up a base for the floor. First, we glued long
 <p align="justify"> Among the different flooring options in van builds we decided to use vinyl click planks. They're super easy to groove together with a tongue-and-groove joint. The result looked great, however, this type of flooring is pretty heavy. I don't think we made a mistake using this floor but, looking back, I would redesign the floor in a smarter way because there were parts of the floor that remained hidden/unused (such as the floor under the kitchen cabinets) that could've helped save on some extra weight. Live and learn, right?
 </p>
 
-<p><img src="/assets/img/Mandalay/floor.jpg" alt="floor" title="floor" /></p>
+<p><img src="/../../assets/img/Mandalay/floor.jpg" alt="floor" title="floor" /></p>
 
 <h3 id="framing-the-van-and-installing-furniture">Framing the van and installing furniture</h3>
 <p align="justify">
 Before adding any piece of furniture and the final touch of wood on the walls and ceiling, we started framing the van. Framing's all about making sure those walls and ceiling are rock solid and ready to hold up the panels. The wooden studs/planks used to frame the van were attached to the van screwing them right onto the metal ribs of the van with self-tapping screws. Then, we proceeded to attach the tongue and groove panels onto the wooden structure using bolts. We opted for wooden tongue and groove panels. We chose pine wood for that cozy, inviting vibe, and... because it looks awesome! At first glance, paneling seemed like a breeze, but the curvy walls and ceiling drove me crazy. Getting all those planks and bits of wood to fit just right and make the most of every centimeter was quite hard. Don't get me wrong, I adore our van, but if we ever convert another van I will make sure it comes with a square cross section.
  </p>
 
-<p><img src="/assets/img/Mandalay/furniture_1.jpg" alt="furniture_1" title="furniture_1" /></p>
+<p><img src="/../../assets/img/Mandalay/furniture_1.jpg" alt="furniture_1" title="furniture_1" /></p>
 
 <p align="justify">
 
 After embellishing the interior walls and ceiling, the next step was to build cabinets and wardrobes to store our clothes. Making the lower cabinet wasn't too tough, and it helped us hide the metal structure around the wheel. However, the upper cabinet was a completely different story. The van walls and ceiling are full of curved surfaces, so crafting those cabinets to fit precisely was quite a challenge. There were many trials and errors, but in the end, we were very happy with the result.
  </p>
-<p><img src="/assets/img/Mandalay/furniture_2.jpg" alt="furniture_2" title="furniture_2" /></p>
+<p><img src="/../../assets/img/Mandalay/furniture_2.jpg" alt="furniture_2" title="furniture_2" /></p>
 
 <h3 id="bed">Bed</h3>
 <p align="justify">
 There are plenty of bed options out there on the internet on how to build a bed. Unfortunately, none of them quite fit the small space we had in our van. So, we had to get creative! We started by building a sturdy frame using pine legs. Then, we added slats on top with enough space for the extension part to slide out. This allows turning the bench into a bed. To make sure this transition was smooth, we used a long hinge. Otherwise, the slats of the extension part would fall into the gap between the fixed ones. Finally, a couple of boards with removable legs were made to complete the bed. It takes a few minutes to put the bed together, but we haven't found a better solution.
 </p>
 
-<p><img src="/assets/img/Mandalay/bed.jpg" alt="bed" title="bed" /></p>
+<p><img src="/../../assets/img/Mandalay/bed.jpg" alt="bed" title="bed" /></p>
 
 <h3 id="kitchen-area">Kitchen area</h3>
 <p align="justify">This part was the real game-changer and probably the most fun to put together. We felt creative and we also had the experience of the previous months to tailor a kitchen that would fit our needs. We planned a big counter divided into three areas under the kitchen top. One section houses the fridge and external battery storage, another for the water tanks and system, and the last for storing our food, dishes, pans, and pots. We decided to use a mix of drawers and cupboards for storage.</p>
 
-<p><img src="/assets/img/Mandalay/kitchen_1.jpg" alt="kitchen_1" title="kitchen_1" /></p>
+<p><img src="/../../assets/img/Mandalay/kitchen_1.jpg" alt="kitchen_1" title="kitchen_1" /></p>
 
 <p align="justify">I tackled the design and wood cutting while my partner took charge of the polishing and painting. The design was simple, built as a rectangular structure from wooden studs. Then, we used plywood for the cabinet doors and compartments, and added three drawers. These were the first drawers I had ever made from scratch, and though there's always room for improvement, I was very satisfied with how they turned out. Finally, we put everything together and secured this huge piece of furniture to the van's chassis. As for the water system, it's pretty straightforward: water gets pumped from the tank and stored in an accumulator to provide the right water flow when we turn on the faucet.
 </p>
 
-<p><img src="/assets/img/Mandalay/kitchen_2.jpg" alt="kitchen_2" title="kitchen_2" /></p>
+<p><img src="/../../assets/img/Mandalay/kitchen_2.jpg" alt="kitchen_2" title="kitchen_2" /></p>
 
 <p align="justify">We also placed a beautiful black sink and got a bit fancy by using tiles for the kitchen wall. Then, we framed the window of the kitchen wall and added several pieces of furniture to optimize the space left in the upper part of the kitchen. It was tricky to get the most from such a small and curvy place but I think we did a great job! </p>
 
-<p><img src="/assets/img/Mandalay/kitchen_3.jpg" alt="kitchen_3" title="kitchen_3" /></p>
+<p><img src="/../../assets/img/Mandalay/kitchen_3.jpg" alt="kitchen_3" title="kitchen_3" /></p>
 
 <h3 id="final-result">Final result</h3>
 <p align="justify">
 After wiring all the electronics and install the light bulbs, polish the last details, adding a table on the lateral side for outside meals and get our hands on the backdoors that we decorated with some more wood and two customized bookshelves, the van was ready to go.
 </p>
 
-<p><img src="/assets/img/Mandalay/final_1.jpg" alt="final_1" title="final_1" /></p>
+<p><img src="/../../assets/img/Mandalay/final_1.jpg" alt="final_1" title="final_1" /></p>
 
 <p>We place the mattress and filled up the van with food, cutlery and clothes and we hit the road for our first adventure with our new camperized van, <strong>Mandalay</strong>.
-<img src="/assets/img/Mandalay/final_2.jpg" alt="final_2" title="final_2" /></p>
+<img src="/../../assets/img/Mandalay/final_2.jpg" alt="final_2" title="final_2" /></p>
+
+  </div>
+</div>
 
 
       
