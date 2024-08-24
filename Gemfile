@@ -1,6 +1,6 @@
-# frozen_string_literal: true
+source 'https://rubygems.org'
 
-source "https://rubygems.org"
+gem 'jekyll'
 
 group :jekyll_plugins do
  gem 'jekyll-multiple-languages-plugin'
@@ -8,5 +8,3 @@ group :jekyll_plugins do
  gem 'jekyll-paginate'
  gem "redcarpet"
 end
-
-gemspec
