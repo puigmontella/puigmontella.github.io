@@ -1,7 +1,11 @@
----
+<!-- ---
 layout: page
 title: My research
----
+--- -->
+
+<h1 style="text-align: center;">My research</h1>
+
+
 
 ### Dilatancy and pore pressure feedback in granular materials: Avalanches {#local-research}
 
@@ -9,7 +13,7 @@ title: My research
 <p align="justify"> Dilatancy is a material property that refers to the volume change observed in granular materials when they are subjected to shear deformations. When a deposited horizontal layer of granular material fully immersed in a liquid is suddenly inclined above a certain critical angle, it starts to flow down the slope because of gravity. The initial dynamics of these underwater avalanches strongly depends on the initial volume fraction. If the granular bed is initially loose, i.e. looser than the critical state, the avalanche is triggered almost instantaneously and exhibits a strong acceleration, whereas for an initially dense granular bed, i.e. denser than the critical state, the avalanche's mobility remains low for some time before it starts flowing normally. Simultaneously, initially loose beds experience contractancy, thus, the pore space is reduced and the fluid inside the pores is expelled. This results in positive pore pressures that enhance the rapid motion of the avalanche. On the contrary, initially dense granular beds show a dilative behavior. The pore space gets larger and the fluid is sucked into the pores. Consequently, negative pore pressures arise within the medium hindering the motion of the granular flow . The complex behavior of these avalanches can be, therefore, explained by a combination of geometrical granular dilatancy and pore pressure feedback on the granular media. </p>
 
 
-![dilatancyAvalanche](/assets/img/Research/graphicalAbstract_110.jpg "dilatancyAvalanche")
+![dilatancyAvalanche](/../../assets/img/Research/graphicalAbstract_110.jpg "dilatancyAvalanche")
 
 <p align="justify"> My work consisted of proposing and implementing a continuum formulation in a three-dimensional continuum numerical model (SedFoam). The originality of the model was to incorporate dilatancy as an elasto-plastic normal stress and not as a modification of the friction coefficient. Our model was able to predict the transient velocity of the granular avalanches for a wide range of initial volume fractions and the correct dynamics were observed when results were compared to experimental data. </p>
 
@@ -25,9 +29,9 @@ Tsai, B., Mathieu, A., Montellà, E. P., Hsu, T. J., & Chauchat, J. (2022). **An
 
 
 
- ![dilatancyLooseCollapse](/assets/img/Research/MapVolumeFraction_Loose_EduRheology.png "dilatancyLooseCollapse")
+ ![dilatancyLooseCollapse](/../../assets/img/Research/MapVolumeFraction_Loose_EduRheology.png "dilatancyLooseCollapse")
 
- ![dilatancyDenseCollapse](/assets/img/Research/MapVolumeFraction_Dense_EduRheology.png "dilatancyDenseCollapse")
+ ![dilatancyDenseCollapse](/../../assets/img/Research/MapVolumeFraction_Dense_EduRheology.png "dilatancyDenseCollapse")
 
 
 <p align="justify">
@@ -43,8 +47,10 @@ Tsai, B., Mathieu, A., Montellà, E. P., Hsu, T. J., & Chauchat, J. (2022). **An
 
 
 
-Montellà, E. P., Chauchat, J., Bonamy, C., Weij, D., Keetels, G., & Hsu, T. (2023). **Numerical investigation of mode failures in submerged granular columns.** _Flow_, 3, E28. doi:10.1017/flo.2023.23
+Montellà, E. P., Chauchat, J., Bonamy, C., Weij, D., Keetels, G., & Hsu, T. (2023). **Numerical investigation of mode failures in submerged granular columns.** _Flow_, 3, E28. doi:10.1017/flo.2023.23.
 
+
+Alhaddad, S., Keetels, G., Mastbergen, D., van Rhee, C., Lee, C. H., Montellà, E. P., & Chauchat, J. (2024). **Subaqueous dilative slope failure (breaching): Current understanding and future prospects**. _Advances in Water Resources_, 104708.
 
 
 
@@ -58,6 +64,10 @@ Montellà, E. P., Chauchat, J., Bonamy, C., Weij, D., Keetels, G., & Hsu, T. (20
 <p align="justify"> In addition to prescribed motion, it is especially important to predict the motion of a solid object subjected to certain forces. Thus, a six degrees of freedom solver has been implemented (the six degrees of freedom refers to how a body can translate and rotate along all three axis in a three dimensional space). The six degrees of freedom solver takes into account the contribution of the weight, buoyancy, frictional, viscous forces, fluid pressure and particle pressure exerted on the solid object to compute the acceleration, velocity and displacement of the object. In the next video we study the scour onset and erosion driven by waves around a cylinder initially placed at a small burial depth. </p>
 
 [![flowOscill](https://res.cloudinary.com/marcomontalbano/image/upload/v1700913838/video_to_markdown/images/youtube--RnNJ1kF3Jxg-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=RnNJ1kF3Jxg "flowOscill")
+
+
+
+Montella, E. P., Bonamy, C., Chauchat, J., & Hsu, T. J. (2024). **Implementing moving object capability in a two-phase Eulerian model for sediment transport applications**. _OpenFOAM® Journal_, 4, 79-104.
 
 ### Modelling capillarity at the pore scale - My PhD
 
@@ -80,7 +90,7 @@ Montellà, E. P., Chauchat, J., Bonamy, C., Weij, D., Keetels, G., & Hsu, T. (20
 
 
 
-![hybridPHD](/assets/img/Research/hybrid.jpg "hybridPHD")
+![hybridPHD](/../../assets/img/Research/hybrid.jpg "hybridPHD")
 
 
 
@@ -106,7 +116,7 @@ Montellà, E. P., Yuan, C., Chareyre, B., & Gens Solé, A. (2020). **Modeling mu
  </p>
 
 
-![Localized](/assets/img/Research/localized.jpg "Localized")
+![Localized](/../../assets/img/Research/localized.jpg "Localized")
 
 Montellà, E. P., Toraldo, M., Chareyre, B., & Sibille, L. (2016). **Localized fluidization in granular materials: Theoretical and numerical study.** _Physical Review E_, 94(5), 052905.
 

@@ -23,6 +23,7 @@ navbar-links:
   About Me: "aboutme"
   My research: "research"
   My adventures:
+    - Eurovelo-1 Huelva to Lisboa: "euroveloPortugal"
     - Biking from Grenoble to Tenerife: "GrenobleTenerife"
     - Buidling our dreamed van:   "Mandalay"
     - Crossing the GR11 Pyrenees Trail:  "Transpirenaica"

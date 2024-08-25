@@ -4,7 +4,7 @@ title: GR11 - Pyrenees trail
 ###subtitle: Why you'd want to go on a date with me
 --- -->
 
-<h1 style="text-align: center;">Transpirenaica - GR11</h1>
+<h1 style="text-align: center;">Eurovelo-1 - Huelva - Lisboa </h1>
 
 
 
