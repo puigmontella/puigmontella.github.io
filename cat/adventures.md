@@ -22,7 +22,7 @@
 
 ---
 
-### Transpirenaica -GR11
+### Transpirenaica - GR11
 
 
 <p align="justify">A l'estiu del 2019, just després d'acabar el meu doctorat i abans de començar el meu primer postdoctorat, vaig tenir la sort de tenir una mica de temps extra a les meves mans. Aquells mesos addicionals es van convertir en la meva oportunitat d'or per dur a terme un somni que feia temps que em rondava pel cap: creurar  els Pirineus des del Mediterrani fins el Cantàbric. Malauradament, vaig haver d'aturar el meu viatge a mig camí per manca de temps i motius personals. Tot i així, cada moment d'aquella aventura salvatge va valer la pena. Va ser increïble presenciar el canvi gradual del paisatge mediterrani a cims rocosos de gairebé 3000 metres, nits passades sota les estrelles en indrets impressionants, caminar per valls a vegades familiars i a vegades inexplorades... </p> Fes clic [aquí](../transpirenaica) per conèixer tots els detalls del meu viatge.
